@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "77FE2AE0-68E3-4BE1-AA79-374D7ACB303B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE450D4B-DF42-4A56-BD1F-095899040DA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAB1D721-3A24-4271-BB2C-687D70258A26",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "10E85AAB-4943-43B5-96B6-DC00BB5E5109"
+    }
+  ],
+  "name": "Attached Devices",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "665294D6-6072-4078-BACE-4875E1FE6FB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

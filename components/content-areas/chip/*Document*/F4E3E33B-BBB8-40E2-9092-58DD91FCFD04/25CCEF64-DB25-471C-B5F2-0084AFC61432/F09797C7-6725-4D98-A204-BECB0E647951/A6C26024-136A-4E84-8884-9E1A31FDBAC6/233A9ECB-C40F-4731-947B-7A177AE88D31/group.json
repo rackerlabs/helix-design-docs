@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "233A9ECB-C40F-4731-947B-7A177AE88D31",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC29568C-5350-480B-8D5F-96EAF899A6EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC4EF00D-1040-4E3F-87FF-54F6F8E54F52",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FDCAF182-DFDF-4F4D-9981-DD1BF347BE49"
+    }
+  ],
+  "name": "Classic Rock Bands",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E07BB47-1013-46EA-9763-DBE26414B8A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

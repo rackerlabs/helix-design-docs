@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8BB25487-79AA-477D-8EAF-C84099DD837A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BFE6C6E-4D6B-4D05-BD23-845DD3EDBA3C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "830A24F1-9576-474A-BBD6-17E9CCF32991",
+    "height": 49,
+    "width": 145,
+    "x": 391,
+    "y": 515
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1B107C91-C2F4-4B5F-91A7-32F4A610AF2B"
+    },
+    {
+      "class": "group",
+      "id": "D5B0FD79-5C64-4BBC-8158-0DD5B4C24849"
+    }
+  ],
+  "name": "chips-composition",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8241871-F798-4702-AE0C-AA1F9ACBDBB9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

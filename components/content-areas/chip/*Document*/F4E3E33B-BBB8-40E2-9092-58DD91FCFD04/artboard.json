@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "F4E3E33B-BBB8-40E2-9092-58DD91FCFD04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FFB8F5BB-8D38-4653-B912-1A21B42B6B7A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "533EB447-9DD1-4B42-8549-91B3F4BB2CBD",
+    "height": 2074,
+    "width": 1024,
+    "x": 73812,
+    "y": 11754
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "45673E67-C0F7-4174-8449-DBB34AADEB4B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9B6CE106-762B-461A-861F-74E3D2538921"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7790F99A-4281-421C-B97A-590EA6AE3894"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D8673F1-421A-4B42-9754-6A9C8057A2D3"
+    },
+    {
+      "class": "text",
+      "id": "15010DF0-B5BB-4C47-93E3-E9C838524469"
+    },
+    {
+      "class": "group",
+      "id": "25CCEF64-DB25-471C-B5F2-0084AFC61432"
+    },
+    {
+      "class": "text",
+      "id": "380DEDCC-EECA-4506-924F-C7E28D8C4EED"
+    },
+    {
+      "class": "text",
+      "id": "6F5AD03C-1701-427F-A5CB-B7718EB7A61B"
+    },
+    {
+      "class": "text",
+      "id": "4F07A484-1AFE-49E9-8D65-ABA6900C41F7"
+    },
+    {
+      "class": "group",
+      "id": "22358474-1436-4BCE-85A5-77EF3BBFFFD1"
+    },
+    {
+      "class": "group",
+      "id": "5972C04B-DA88-46CB-A202-25A26F74CD05"
+    },
+    {
+      "class": "text",
+      "id": "AF8EFF07-06A1-4260-9A0E-FB61886566FE"
+    },
+    {
+      "class": "group",
+      "id": "8BB25487-79AA-477D-8EAF-C84099DD837A"
+    },
+    {
+      "class": "group",
+      "id": "037507A2-A5EF-462E-A16C-C9E75743C2A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84C49284-A1F6-43AB-BA49-D765F75D1954"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "B5FB8ED5-CA21-4C52-AFC3-117DD6C4807A",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.81818181818182,
+    "guttersOutside": false,
+    "horizontalOffset": 32,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "chips",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC4C363A-6DD1-4808-86C5-4C063185C8DF",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C51AE07C-3DCF-4EE4-A4CE-48ECA83639F1",
+    "guides": [
+    ]
+  }
+}
