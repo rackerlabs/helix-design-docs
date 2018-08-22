@@ -1,0 +1,33 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "522553C4-C697-474A-B768-F4FF8014992B",
+  "name": "H1 - Regular",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "522553C4-C697-474A-B768-F4FF8014992B",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.259,
+          "green": 0.259,
+          "red": 0.259
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 24
+          }
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

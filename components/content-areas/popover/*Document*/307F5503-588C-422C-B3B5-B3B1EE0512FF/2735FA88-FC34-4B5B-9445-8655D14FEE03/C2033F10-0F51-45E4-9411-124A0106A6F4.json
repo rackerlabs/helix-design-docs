@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C2033F10-0F51-45E4-9411-124A0106A6F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 318,
+    "x": 20,
+    "y": 74
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs: Text / Text-Input w/ Label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD2E1DC4-FD75-474D-B19D-9F257E88D5E9",
+      "overrideName": "D189289F-9997-4D2A-8AA8-D49A5321BE40_stringValue",
+      "value": "Email Address"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CDF7EE4-4BBA-47BD-B2D5-FC69677463BE",
+      "overrideName": "FEFFE7C9-DEFE-48A0-9F8F-8B7EF07DBFDD_symbolID",
+      "value": "1480BE40-6E08-4D83-9ACF-6A00F66B3EBE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B03C740-A830-438B-B698-7191C6182EF8",
+      "overrideName": "FEFFE7C9-DEFE-48A0-9F8F-8B7EF07DBFDD/A6F273EA-C5A6-4F03-AAAB-59D7C4800F7F_stringValue",
+      "value": "test@testing-town.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "30E10A7B-950F-4A1D-9CF9-FE76E90E5AB1",
+  "verticalSpacing": 0
+}

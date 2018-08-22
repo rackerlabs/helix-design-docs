@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "7C2C4C81-99CF-4CB4-89C6-62F9B288E473",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA6A1ACB-2391-415B-AA97-D3F330972662",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A32BCC6D-65F2-48FA-BDBD-D47704A96F1E",
+    "height": 40,
+    "width": 450,
+    "x": 30,
+    "y": 150
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tables: Row / 3-col / Condensed / Check + Cog Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2ED8FE33-80E1-432F-979B-AF9826E08F5C",
+      "overrideName": "379B8E63-6941-43B3-957C-3FCEEBCB5C5A_stringValue",
+      "value": "Ping Check"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E7CE5884-6793-4BA0-BA38-29A6DD8E9F14",
+      "overrideName": "02233F80-EF64-48F9-9BE0-6EAC14BF8892_stringValue",
+      "value": "Hostname: 23.253.238.102"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BDF2AD8B-0F10-430B-B803-26DD9F2544D6",
+      "overrideName": "0BA05B74-DF69-48BE-A3EA-EC8348D8FC8D_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0840A5E7-E188-47A2-BB8E-E1B32E6A27B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A80BCEFE-9262-47A6-AA07-50D1836A6020",
+  "verticalSpacing": 0
+}

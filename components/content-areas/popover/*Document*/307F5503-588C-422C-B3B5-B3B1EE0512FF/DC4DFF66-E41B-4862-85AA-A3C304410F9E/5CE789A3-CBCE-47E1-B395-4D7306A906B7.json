@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5CE789A3-CBCE-47E1-B395-4D7306A906B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C357CB1C-0A6C-4E6F-92FE-428DF94B6552",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C35B4099-626B-4974-923A-480E41A3DF66",
+    "height": 47,
+    "width": 216,
+    "x": 4,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "labels/image-label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EAEEDDB4-9970-42C2-9D35-49EE96124338",
+      "overrideName": "CF7C5F20-D27D-4555-98A3-210355CA92A2_stringValue",
+      "value": "POINTER SIZE AND DISTANCE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6A9FB20-8246-44AF-87C7-240892E5632F",
+      "overrideName": "BE49D38C-14BF-45FF-BD0E-66DB36ABED37_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9D3410A-D93A-4C8B-B92E-6564E90C7958",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A98B9FD-7BD7-4639-B602-4E0E2E59B242",
+  "verticalSpacing": 0
+}

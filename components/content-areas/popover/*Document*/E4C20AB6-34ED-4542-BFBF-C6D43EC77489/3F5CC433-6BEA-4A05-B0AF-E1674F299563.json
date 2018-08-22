@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "3F5CC433-6BEA-4A05-B0AF-E1674F299563",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 316,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "help/ background",
+  "nameIsFixed": false,
+  "originalObjectID": "A697B103-D6A6-4724-A898-7EF0471F512B",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FC0D42B0-36EF-4794-BE15-884EB6AE040D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FC0D42B0-36EF-4794-BE15-884EB6AE040D/DC175DF7-D674-45F1-99E2-B40226C1B1B3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FC0D42B0-36EF-4794-BE15-884EB6AE040D/3A9AE7DA-AAC3-4330-B253-7C0F184D31D2_symbolID",
+      "value": "2C38476F-14A9-4F15-A0E5-45EEC77D9717"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "941FBABD-A37A-46A1-883D-AA3565E972CA_stringValue",
+      "value": "Examples"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E462B970-04E7-4105-B2B2-D485B93E6FFF_stringValue",
+      "value": "If they exist, drop in screenshots of places where this component is in use.  Use the captions to briefly describe HOW the element is used in context.  If you can, paste images here that fit in the white box.  We will auto-generate these into smaller thumbnails for a lightbox list.\n\nIf you need a few of these, just copy and paste the example group below, and make sure to change the names of the copy layers to just “example”."
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2664E371-0EA6-4C4E-A0DA-49BDB9FFCAC4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "9D756D36-C95C-4FAA-9D03-9D9E5B543CCD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BEF9C3D5-B5CB-479A-B1F3-869135542D49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F932278F-2D23-427F-8195-233BD7223AF1",
+    "height": 32,
+    "width": 165,
+    "x": 30,
+    "y": 146
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs: Buttons / Standard Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3102609-E938-4FCE-A1CE-CB9D742D427C",
+      "overrideName": "C2CDC604-66DD-4E41-94E4-6433E94A1369/19A721D0-341B-43EA-BAE2-0FB5F4AB0236/0BCFBCFD-4126-4314-BBFB-A7FA84A0DA05_stringValue",
+      "value": "Update Email Address"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5090E6E4-EBB3-4584-B636-4C78140348CE",
+      "overrideName": "149C46B7-AD2A-4275-98F8-B2EBF8D65E7A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DEAC238C-AD5B-4A9F-BF80-BE2677871775",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9533C738-0136-4CB2-80E6-3EAE1058837F",
+  "verticalSpacing": 0
+}

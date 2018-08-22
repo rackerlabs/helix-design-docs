@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A887AE69-7B86-4121-A842-CFA1D69F0743",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 339,
+    "width": 960,
+    "x": 32,
+    "y": 3319
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3A5E5EF4-50C8-4EC9-91E2-344340D7DDE7"
+    },
+    {
+      "class": "text",
+      "id": "F536C8D5-725D-4BE1-B2FA-9E9AB63554F5"
+    },
+    {
+      "class": "text",
+      "id": "E206678A-D33B-452D-8D64-CD467510316A"
+    }
+  ],
+  "name": "Small create/edit popover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

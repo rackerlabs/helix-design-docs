@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "5D0F79FC-6967-4DF1-BCA0-9F69896D70AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABFEDBB6-8FED-4880-8609-AD383ED16869",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51418C29-CFB6-43BF-ACD9-F6D0091DE51C",
+    "height": 130,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Content Areas: Popover Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18F2298D-B6DB-4E5F-91BE-A859DCC35A70",
+      "overrideName": "E545B013-1BA3-4CBE-8707-7E12C840E088_symbolID",
+      "value": "6EA566E8-2129-401D-919E-3FFD52635707"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54EB185A-64AD-42A7-81C3-07436D0BA84B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79560F5A-B37E-480C-8672-A7E4AB72D240",
+  "verticalSpacing": 0
+}
