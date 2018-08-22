@@ -1,0 +1,54 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BCF9B8B4-E1FD-4A00-B916-5ADA7DB9D467",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F826BB1-47B0-47F2-8D28-6BB9B6298641",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC8ECD48-6157-47F4-ACB0-ED55FEEAFEF5",
+    "height": 13.344,
+    "width": 11.13342653377333,
+    "x": 0.1745734662266614,
+    "y": 0.6120000000000018
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "32E96730-3832-4F65-99EE-BE95E0E5CC37"
+    }
+  ],
+  "name": "Clip 19",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E576E0B-EA45-48A7-AC07-9BDD74893726",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

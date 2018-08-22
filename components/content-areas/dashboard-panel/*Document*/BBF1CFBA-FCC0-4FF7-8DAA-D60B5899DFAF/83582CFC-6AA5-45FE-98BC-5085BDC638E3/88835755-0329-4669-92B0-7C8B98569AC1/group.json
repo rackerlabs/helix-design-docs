@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "88835755-0329-4669-92B0-7C8B98569AC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7205ABD4-047D-4EDF-B093-7FD8234B70E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5217A452-F56D-41F1-832D-B96247991E59",
+    "height": 372,
+    "width": 506,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A37CA3D4-A0F7-4F3B-81C8-22614B9EB63E"
+    },
+    {
+      "class": "text",
+      "id": "8C57FBF3-CB20-432A-932E-B1DB3AF98694"
+    },
+    {
+      "class": "text",
+      "id": "3A76B19A-7C35-4EDE-AD03-8C244C3C34B1"
+    },
+    {
+      "class": "text",
+      "id": "D862917D-DF71-457E-91EE-AAA56AD53961"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA545341-1B15-4869-9029-D1D9B9294C77"
+    },
+    {
+      "class": "group",
+      "id": "0A5266F5-C035-4204-BE52-A5499FD9EF56"
+    },
+    {
+      "class": "group",
+      "id": "A955BB36-6584-488C-A3A7-E26DB339BBC0"
+    },
+    {
+      "class": "group",
+      "id": "30ECC1DF-05F4-4F10-90EB-72D1D17C25B1"
+    },
+    {
+      "class": "group",
+      "id": "7641835B-DE85-482D-A0D2-CDF3279337FB"
+    },
+    {
+      "class": "group",
+      "id": "E51F0E56-E94E-414E-92A4-303F6A5D2E67"
+    },
+    {
+      "class": "group",
+      "id": "1D3EA952-DEAB-458B-814B-C5BBAA05019B"
+    }
+  ],
+  "name": "dashboard-panel-tabset-in-body copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "783619D3-9E1E-4938-86CA-766CCB54E66E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

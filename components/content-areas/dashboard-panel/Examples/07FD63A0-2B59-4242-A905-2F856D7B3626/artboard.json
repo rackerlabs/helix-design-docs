@@ -1,0 +1,164 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9333333333333333,
+    "do_objectID": "7619E185-6C7B-4BEE-AFC6-D4689B0D93A6",
+    "green": 0.9333333333333333,
+    "red": 0.9333333333333333
+  },
+  "booleanOperation": 0,
+  "do_objectID": "07FD63A0-2B59-4242-A905-2F856D7B3626",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "970348BB-533E-42B2-8C1C-03C16568F687",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1577AD2-6293-4F9B-B23F-3228A2A9C1C8",
+    "height": 1210,
+    "width": 1440,
+    "x": 3441,
+    "y": 1011
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "12358D6B-1361-4183-A8BD-14F591BDAF3B",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "614CCCEC-641A-4768-8C10-F75AD172D208",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "159D9B82-87F3-4664-93C0-3D91CCD972D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20D2A9DC-7F2B-4AED-BCF1-89CA09381ED3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79E6725B-F98E-47E3-8FD3-09C90E8A1DF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "915CCFC3-C3B5-4E44-85AF-06D64E788D80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E99CF04-9EB4-43DA-ACA0-95DE3BEE3CD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E800957-4EA5-4733-BB8E-CFB416F99498"
+    },
+    {
+      "class": "text",
+      "id": "499E94F4-09A7-491A-AA67-7736368C4AE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49A13A0F-6545-4C6F-879B-A7F179307D57"
+    },
+    {
+      "class": "group",
+      "id": "FF079D5E-FD37-41FF-A296-E5181EA44DD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B1FB057-F713-41D2-8418-8DB13CCF6175"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 98.33333333333333,
+    "do_objectID": "6F01098F-D08F-4307-B0F8-B098E8E7A2F2",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 20,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1400
+  },
+  "name": "Global Dashboard",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6AA6301-F645-4987-AADC-E4619852043A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BD1B6B7B-B5F9-4357-8BC1-DFC72AEB5E66",
+    "guides": [
+    ]
+  }
+}

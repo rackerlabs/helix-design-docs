@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "10E5F259-FD10-4D9B-949A-4186BD82C152",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63A3BD4C-F0F6-4D72-95BB-F4EDD2C79A96",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B3B6887-3C6A-4F37-9430-2EE7A6EFFAA3",
+    "height": 13.48,
+    "width": 12.38397257429523,
+    "x": 0.8140000000000214,
+    "y": 0.5660000000000024
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3FE0406F-9441-4069-B8A8-178DB90C886F"
+    },
+    {
+      "class": "shapePath",
+      "id": "AF76F6E6-1669-4F03-8237-19772CFB151C"
+    }
+  ],
+  "name": "Clip 28",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7093F1F-A1F9-48DB-8BE8-477FD7580259",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

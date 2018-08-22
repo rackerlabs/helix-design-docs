@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1D40AAA1-2B20-4B85-8FE1-00494C2ADE62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21D8AC38-5EA1-479B-9037-70CF584DD414",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AACBA0C7-CCF4-49BF-A461-39066D07763E",
+    "height": 277,
+    "width": 454,
+    "x": 966,
+    "y": 156
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / panels / favorite-accounts",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEBEA72F-5AC8-4BF2-88D0-CF4A1EFD5581",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "180DEB33-4614-4D2D-B88A-C2695C829EFD",
+  "verticalSpacing": 0
+}

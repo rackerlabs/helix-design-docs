@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "BF577C85-146A-4C5E-AC90-2BF6DB0F8BFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "442EB76C-4B28-450A-AEAF-EB12165D48B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "442BB7A3-92BD-4C23-AA15-6DDB947D7683",
+    "height": 300,
+    "width": 505.9999999999999,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / panels / pending-support-tickets copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "173189E7-494F-443A-83BE-D880BFA6A195",
+      "overrideName": "2E90150C-2B6D-4FE5-BA8D-265923ED031D_stringValue",
+      "value": "Panel Title"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F847F968-F1F9-4AF9-952A-48AEC99717A9",
+      "overrideName": "0E9C4444-6B74-4E52-8FEB-1F043B217354_stringValue",
+      "value": "Go to section"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2414E386-7468-44CA-9F82-62F185A1BE26",
+      "overrideName": "B953CEA8-3B83-40BA-A45F-E598B4D5C78D/C2CDC604-66DD-4E41-94E4-6433E94A1369_symbolID",
+      "value": "92805E27-64B2-4A89-AC34-754754FB0A7C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F6BE5CA-8199-4AA7-A764-3DA0B2CA9859",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2ECA56C8-BFA6-4150-ACA9-3038FD36A1CE",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "0E61849E-E36E-40B0-84FD-1144DBEF7955",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E8BCD7D-4C93-44CB-A77D-EFB3BCA77CE0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8048A14-0FAD-4C9C-924F-F672D8262BD5",
+    "height": 565,
+    "width": 431,
+    "x": 978,
+    "y": 418
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "dashboard / popovers / include-accounts-popover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1FE264F-0AD2-4AD7-86FC-5C2F9FC5C08E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "81955310-B8CE-41CA-B336-253B0CC39329",
+  "verticalSpacing": 0
+}
