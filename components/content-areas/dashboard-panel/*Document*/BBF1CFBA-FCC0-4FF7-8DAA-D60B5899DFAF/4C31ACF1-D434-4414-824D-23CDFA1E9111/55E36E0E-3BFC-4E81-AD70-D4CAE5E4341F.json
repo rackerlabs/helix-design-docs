@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "55E36E0E-3BFC-4E81-AD70-D4CAE5E4341F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1695433-78A7-4839-90D3-77ED281B50A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5A6B62B3-412F-4E7A-9FE2-4B895FE75A47",
+    "height": 374,
+    "width": 506,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / panels / pending-support-tickets copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "173189E7-494F-443A-83BE-D880BFA6A195",
+      "overrideName": "2E90150C-2B6D-4FE5-BA8D-265923ED031D_stringValue",
+      "value": "Recent Invoices"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F847F968-F1F9-4AF9-952A-48AEC99717A9",
+      "overrideName": "0E9C4444-6B74-4E52-8FEB-1F043B217354_stringValue",
+      "value": "Go to Billing"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2414E386-7468-44CA-9F82-62F185A1BE26",
+      "overrideName": "B953CEA8-3B83-40BA-A45F-E598B4D5C78D/C2CDC604-66DD-4E41-94E4-6433E94A1369_symbolID",
+      "value": "92805E27-64B2-4A89-AC34-754754FB0A7C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A79BF25E-0E7E-4096-AC44-C84431470BFC",
+      "overrideName": "B953CEA8-3B83-40BA-A45F-E598B4D5C78D/C2CDC604-66DD-4E41-94E4-6433E94A1369/2946E6E5-CD6A-4D0B-9372-D6AF54C9F3F8/6EF27220-6918-4A9D-9BCC-E168C9DC4F0E_stringValue",
+      "value": "Make Payment"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9E7A172-3F94-470B-AAAA-0A1D58483C6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2ECA56C8-BFA6-4150-ACA9-3038FD36A1CE",
+  "verticalSpacing": 0
+}

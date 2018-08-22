@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "4EDAA237-01AE-4B0E-BB98-7C2E2A915E5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1D6A4D0-F5D1-4201-91C3-BBA0BBBD6B40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A2016018-DE1E-433A-86B5-169FBF97CA86",
+    "height": 19.00000000000011,
+    "width": 116,
+    "x": 403,
+    "y": 696
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "redlines/reference tag copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43DA7A84-689D-40F3-961C-961AFA279A5B",
+      "overrideName": "1C2BA5E3-CB2E-4097-BC58-E6E0BEAE1829_stringValue",
+      "value": "Tabset"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B36C58D-2447-46AF-ACBF-5F851EBC5C4F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "74098220-085C-454A-A957-BB37D5329012",
+  "verticalSpacing": 0
+}

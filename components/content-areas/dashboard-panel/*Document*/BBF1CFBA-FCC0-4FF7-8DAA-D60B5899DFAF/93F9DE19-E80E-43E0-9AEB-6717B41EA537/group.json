@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "93F9DE19-E80E-43E0-9AEB-6717B41EA537",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 372,
+    "width": 506,
+    "x": 423,
+    "y": 1886
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "53D2E666-9D2E-409C-8755-4B7DE6258135"
+    },
+    {
+      "class": "text",
+      "id": "FE8FD6E5-C2E1-4FB5-812D-EF6537FB4F0A"
+    },
+    {
+      "class": "text",
+      "id": "BCD3B3FE-7560-471E-81EC-D41967CE6695"
+    },
+    {
+      "class": "text",
+      "id": "30B62250-88FB-4B7E-AC6F-1515DAEA1061"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "454A7035-1226-46E5-848A-51413D0918E7"
+    },
+    {
+      "class": "group",
+      "id": "9F76DDCD-449B-43EF-A2E3-C050D33A3BA0"
+    },
+    {
+      "class": "group",
+      "id": "16E62C4C-6975-47D2-8894-6D13634AAEEC"
+    },
+    {
+      "class": "group",
+      "id": "288FCD06-2B08-450D-A8B9-188641959929"
+    },
+    {
+      "class": "group",
+      "id": "15665E6D-EDA0-4F2F-BB1A-942BC10DFB1B"
+    },
+    {
+      "class": "group",
+      "id": "6A74522A-8640-42ED-BD32-C851FB61C828"
+    },
+    {
+      "class": "group",
+      "id": "4F0976B3-80B8-4823-B9ED-E01777A535E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C17EFC6-06C8-4FAE-9C4D-A2CE98B07851"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39E3A7F5-4D75-4053-8AE1-B37CB089A093"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AEB1BDF2-04FE-4C62-9E04-3242CEEB8D63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE2A1577-15F4-4716-9799-AF6C61D2BB22"
+    }
+  ],
+  "name": "dashboard-panel-spacing-tabset-in-body",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

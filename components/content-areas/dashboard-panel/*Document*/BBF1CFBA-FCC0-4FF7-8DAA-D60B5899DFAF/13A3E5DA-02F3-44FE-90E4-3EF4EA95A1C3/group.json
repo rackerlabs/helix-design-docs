@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "13A3E5DA-02F3-44FE-90E4-3EF4EA95A1C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 330,
+    "width": 506,
+    "x": 423,
+    "y": 391
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "76472CA3-8CC8-4901-9BCF-8222A3A77F4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C2FABEB-294D-46CF-8597-7EC70FD57870"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "846842D5-0707-434F-A111-4B7A62408403"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "764F5140-8655-4E9F-A561-40C0B48BEE0B"
+    },
+    {
+      "class": "text",
+      "id": "8A6DC0D1-3224-4821-B9C1-D03B59A1ECF7"
+    },
+    {
+      "class": "text",
+      "id": "64FFF244-5763-421B-86F7-2F64778DF830"
+    },
+    {
+      "class": "text",
+      "id": "FBD8CCA7-89C7-474B-8544-EF48B0A9006E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3BEB5CE-58AC-4A81-A524-528708DC5584"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12962F30-3682-4B9B-AE20-7FE2ED04AF9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "325A8FA9-B777-4A44-A0B1-CECCCA3D7DE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4EFEB662-F6B9-4D85-9B4D-80D5999B8318"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C89EA6A4-ED36-4A8C-A385-E4F1EFD9B6AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBDD986E-BDAB-41C4-8670-D694EE4F255C"
+    }
+  ],
+  "name": "dashboard-panel-composition",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

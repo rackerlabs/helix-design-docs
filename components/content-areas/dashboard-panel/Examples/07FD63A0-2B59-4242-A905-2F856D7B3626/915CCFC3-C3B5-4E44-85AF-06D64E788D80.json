@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "915CCFC3-C3B5-4E44-85AF-06D64E788D80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A93151D-D1D4-43F8-B4F1-F9FCAB9CB446",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E78DEE04-4F18-4D60-922D-DECF2705FB3D",
+    "height": 428,
+    "width": 454,
+    "x": 966,
+    "y": 453
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / panels / recent-invoices",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C58BBC59-F794-4B71-B101-DA59411CBFF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A8D38FB-5A29-4332-834F-E3C8C4668DC9",
+  "verticalSpacing": 0
+}

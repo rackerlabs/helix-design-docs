@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "47BFB150-15B2-4E23-9590-1A259B4FA712",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9470F295-F15C-4AD7-90EF-7A8D55A92918",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC11252E-0D66-4791-B7C3-3C2FF23ACFC8",
+    "height": 14,
+    "width": 14,
+    "x": 418,
+    "y": 49
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / times/plain",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "34844C10-1295-4ABD-8747-9ECA652760BB_symbolID",
+      "value": "4B46064F-448A-475D-A26A-5E4B36207855"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAC60C9D-C47D-4976-A8C8-180BC68D7D73",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "294A442A-AE0A-4030-8A95-D632C2CECC2C",
+  "verticalSpacing": 0
+}

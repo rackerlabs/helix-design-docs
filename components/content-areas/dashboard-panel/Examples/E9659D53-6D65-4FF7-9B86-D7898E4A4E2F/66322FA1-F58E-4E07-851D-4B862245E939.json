@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "66322FA1-F58E-4E07-851D-4B862245E939",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81DF7C13-8551-49F4-9F3E-E990F6FD2BB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F61F0E91-6B98-486F-A426-4E2CDF4F1A03",
+    "height": 249,
+    "width": 454,
+    "x": 966,
+    "y": 901
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / panels / recent-places",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97F0DE3F-F873-49D7-89D3-37B48EA68B93",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "872EACC5-FE56-4C36-AC59-CF6754C7A487",
+  "verticalSpacing": 0
+}

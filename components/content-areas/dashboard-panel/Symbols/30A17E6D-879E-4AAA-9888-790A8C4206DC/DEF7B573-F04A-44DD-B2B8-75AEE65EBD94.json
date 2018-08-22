@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "DEF7B573-F04A-44DD-B2B8-75AEE65EBD94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 926,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "panel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BFEAA03-FE7F-4BBA-8F6D-9709D0265052",
+      "overrideName": "2E90150C-2B6D-4FE5-BA8D-265923ED031D_stringValue",
+      "value": "Pending Support Tickets"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8169C217-F9C2-4990-AC03-186A0B3D76FD",
+      "overrideName": "0E9C4444-6B74-4E52-8FEB-1F043B217354_stringValue",
+      "value": "View All Tickets"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "950CB865-68E7-4802-BCE2-9282EE1E0B8D",
+      "overrideName": "B953CEA8-3B83-40BA-A45F-E598B4D5C78D/C2CDC604-66DD-4E41-94E4-6433E94A1369/19A721D0-341B-43EA-BAE2-0FB5F4AB0236/0BCFBCFD-4126-4314-BBFB-A7FA84A0DA05_stringValue",
+      "value": "Create Ticket"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2ECA56C8-BFA6-4150-ACA9-3038FD36A1CE",
+  "verticalSpacing": 0
+}

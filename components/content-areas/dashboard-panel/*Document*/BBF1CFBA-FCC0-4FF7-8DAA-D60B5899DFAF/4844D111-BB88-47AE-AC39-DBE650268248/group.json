@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "4844D111-BB88-47AE-AC39-DBE650268248",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 374,
+    "width": 506,
+    "x": 419,
+    "y": 4213
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "31C8AA3C-6E58-416A-B582-E02F65A40F12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A5FBA5D-A612-4D73-92D8-77921D8E8C2C"
+    },
+    {
+      "class": "group",
+      "id": "6A10BDFD-1160-482D-8E2D-9DDBFFAA4451"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9F967A8-B4FE-4D22-AF8D-40C46941CBEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8DB7AFB-5911-451E-8413-C76A9B58087C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83DB3546-B114-4D8F-BD73-FF7EED5058E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40BF1F97-BAA1-4962-852B-5934163C5C1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A1C9B81-2BD2-4815-AA00-20D6AA05014A"
+    },
+    {
+      "class": "text",
+      "id": "7A95F1A7-5272-452C-BB37-76ED8338E822"
+    },
+    {
+      "class": "text",
+      "id": "75A1B2CC-6573-49C2-9DDC-87ED80194A70"
+    },
+    {
+      "class": "text",
+      "id": "FD2C0F4B-6335-428C-86AC-6847A27ADD6E"
+    },
+    {
+      "class": "group",
+      "id": "B4B5D2FB-634D-4AB2-AD6B-323150878D8A"
+    },
+    {
+      "class": "group",
+      "id": "1124D36B-07AA-4A74-A323-85BC0E918B34"
+    }
+  ],
+  "name": "dashboard-panel-states-failed-to-load-data",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

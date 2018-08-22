@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "53D2E666-9D2E-409C-8755-4B7DE6258135",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D3A2083-6C6A-41C5-B21A-4DA812EA5EE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8A01C18-4DA7-49BC-AA64-B9BBAD91B4A7",
+    "height": 372,
+    "width": 506,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / panels / pending-support-tickets copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "173189E7-494F-443A-83BE-D880BFA6A195",
+      "overrideName": "2E90150C-2B6D-4FE5-BA8D-265923ED031D_stringValue",
+      "value": "Notifications"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F847F968-F1F9-4AF9-952A-48AEC99717A9",
+      "overrideName": "0E9C4444-6B74-4E52-8FEB-1F043B217354_stringValue",
+      "value": "Go to Notifications"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2414E386-7468-44CA-9F82-62F185A1BE26",
+      "overrideName": "B953CEA8-3B83-40BA-A45F-E598B4D5C78D/C2CDC604-66DD-4E41-94E4-6433E94A1369_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A79BF25E-0E7E-4096-AC44-C84431470BFC",
+      "overrideName": "B953CEA8-3B83-40BA-A45F-E598B4D5C78D/C2CDC604-66DD-4E41-94E4-6433E94A1369/2946E6E5-CD6A-4D0B-9372-D6AF54C9F3F8/6EF27220-6918-4A9D-9BCC-E168C9DC4F0E_stringValue",
+      "value": "Make Payment"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C0939FF5-5D40-44BF-AB38-883913A5CF63",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2ECA56C8-BFA6-4150-ACA9-3038FD36A1CE",
+  "verticalSpacing": 0
+}
