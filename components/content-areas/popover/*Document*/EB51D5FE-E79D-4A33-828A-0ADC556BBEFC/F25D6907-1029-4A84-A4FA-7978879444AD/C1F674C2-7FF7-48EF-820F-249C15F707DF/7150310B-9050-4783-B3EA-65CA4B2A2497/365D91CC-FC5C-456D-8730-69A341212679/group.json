@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "365D91CC-FC5C-456D-8730-69A341212679",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 252,
+    "x": 19,
+    "y": 193
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DD4338F8-2942-44B1-90DC-088EC6EBE30F"
+    },
+    {
+      "class": "text",
+      "id": "9AF786F2-4536-43A5-86A5-550134114751"
+    },
+    {
+      "class": "text",
+      "id": "8A88B788-108B-4BC1-ABE7-AF6352E4518F"
+    }
+  ],
+  "name": "Basic Field w Label",
+  "nameIsFixed": false,
+  "originalObjectID": "DACB2E45-D5D8-4CC4-B11F-82928F75F844",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

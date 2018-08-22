@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "AC2293FF-6D8F-42C6-AE80-CBF7DA2F426B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A80C927-BDEA-46B7-978B-69D332C81DDB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91DDE74A-4225-41DD-9F81-298FD4B6FC67",
+    "height": 209,
+    "width": 250,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EF28F9D8-BC42-483F-B7EB-140B6C4ADC3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9BD77496-361F-4908-B4F2-CF18C6C3E651"
+    }
+  ],
+  "name": "Fill 227 Copy 12",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D1AB68E-5CAB-42F8-B915-690E42977555",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

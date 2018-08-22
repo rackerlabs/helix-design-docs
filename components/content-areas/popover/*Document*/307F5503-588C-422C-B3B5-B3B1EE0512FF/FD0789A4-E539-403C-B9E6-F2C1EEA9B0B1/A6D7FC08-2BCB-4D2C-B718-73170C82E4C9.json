@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "A6D7FC08-2BCB-4D2C-B718-73170C82E4C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 450,
+    "x": 30,
+    "y": 111
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tables: Row / 3-col / Condensed / Check + Cog",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5B701DF-AB8B-4C9F-8D73-F6924BC3895E",
+      "overrideName": "379B8E63-6941-43B3-957C-3FCEEBCB5C5A_stringValue",
+      "value": "design.rax.io"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36126758-E09D-4015-9D91-AC37B52D8DC7",
+      "overrideName": "02233F80-EF64-48F9-9BE0-6EAC14BF8892_stringValue",
+      "value": "URL: http://design.rax.io"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16982605-A361-4258-BF8D-EB79614DA038",
+      "overrideName": "0BA05B74-DF69-48BE-A3EA-EC8348D8FC8D_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A80BCEFE-9262-47A6-AA07-50D1836A6020",
+  "verticalSpacing": 0
+}

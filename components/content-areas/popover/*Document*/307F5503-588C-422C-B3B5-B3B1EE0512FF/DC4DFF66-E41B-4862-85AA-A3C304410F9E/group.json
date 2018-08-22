@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "DC4DFF66-E41B-4862-85AA-A3C304410F9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 871,
+    "width": 400,
+    "x": 440,
+    "y": 1938
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4ED1FFC9-0BF0-43E9-BE4B-CFE2E83968F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CE789A3-CBCE-47E1-B395-4D7306A906B7"
+    },
+    {
+      "class": "group",
+      "id": "DA0993E4-3CCF-4F09-A527-152AB48987F6"
+    },
+    {
+      "class": "group",
+      "id": "B211410A-D48A-4EC3-B17C-2E791E08C182"
+    },
+    {
+      "class": "group",
+      "id": "E16F5361-4D9C-4627-AFCC-C8880750EA06"
+    },
+    {
+      "class": "group",
+      "id": "1B6EBC4F-5CC1-4BDA-965E-CA49FB5D96A3"
+    },
+    {
+      "class": "group",
+      "id": "515F08B2-66F9-49BC-B52C-32ADAEE3C5E7"
+    },
+    {
+      "class": "group",
+      "id": "E4547AAA-A0A3-4FEA-A909-92A806C8AB3E"
+    },
+    {
+      "class": "group",
+      "id": "C9B0C51E-D25F-41E0-B7B8-9D07F5EC5C26"
+    },
+    {
+      "class": "group",
+      "id": "21129DEF-486A-4DBB-A198-CA6544C8DB1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "583A58C3-87EE-41CF-884A-05B517B7D346"
+    }
+  ],
+  "name": "popover-size-and-spacing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
