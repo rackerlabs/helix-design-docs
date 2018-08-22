@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "AA42854F-0796-48EF-9CA3-A230830640EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 468,
+    "width": 1024,
+    "x": 0,
+    "y": 848
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "501E6ED8-8347-42B1-A0CF-C251E6CF3B31"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E581159F-381B-4E9B-8204-8F4422B93B8C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D86A4C0-EE40-4A5F-AE57-8A40729FFDAD"
+    },
+    {
+      "class": "text",
+      "id": "58D9BE7D-7B4A-4C40-AEA0-7307533CCCD6"
+    },
+    {
+      "class": "text",
+      "id": "271953BC-DDBD-487C-87FA-1FB8E1396781"
+    },
+    {
+      "class": "text",
+      "id": "DC07CBA7-BEF6-401C-BB6F-591CD05CAEC1"
+    },
+    {
+      "class": "text",
+      "id": "0D3FF09D-EEE3-4121-8409-95E2FA53DB25"
+    }
+  ],
+  "name": "documentation / section / animation-section",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
