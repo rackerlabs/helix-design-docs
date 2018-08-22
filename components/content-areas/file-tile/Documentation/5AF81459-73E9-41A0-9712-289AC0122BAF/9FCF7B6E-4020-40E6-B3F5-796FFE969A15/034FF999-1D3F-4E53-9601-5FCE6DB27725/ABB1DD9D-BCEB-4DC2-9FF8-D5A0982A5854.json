@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "ABB1DD9D-BCEB-4DC2-9FF8-D5A0982A5854",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2C6E339-22BB-45D9-BE5F-92C56AA49BBA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A59B0FAA-FD7E-4223-B4B3-2180B40740CC",
+    "height": 47,
+    "width": 129,
+    "x": 0,
+    "y": 360
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "labels/image-label copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF7C5F20-D27D-4555-98A3-210355CA92A2_stringValue",
+      "value": "Remove Hover"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE49D38C-14BF-45FF-BD0E-66DB36ABED37_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E62A9DC-E564-4844-9610-15D9A243FE58",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "96FC415A-8A88-4272-9289-05FA2A62D629",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,81 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "32601290-0101-4063-BF85-A1CC9CE1C575",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 202,
+  "do_objectID": "A73599B0-B3C4-4D1F-907B-1B9977A5CB39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BD46414-AD0C-4425-9CBF-05DC6B7087DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3DE1953-38D3-4092-B1DE-4B9CDF0A8415",
+    "height": 16,
+    "width": 16,
+    "x": 240,
+    "y": 1708
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DF2F7641-675D-43EA-83E1-818D1BDD36C1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FC7C7671-9A6C-4FE2-9F1B-66E2583A9683"
+    }
+  ],
+  "name": "brand_excel",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "717229EE-A7BD-4EE0-86C0-A126DDBBD781",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "715CE93D-200E-4626-95EE-CD25D6129530",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6F38A679-4973-43F1-BCAD-B2B833DB4120",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "77D7DF17-8358-4774-9AD5-085A78EF2885",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D43E18A4-FBA3-4582-B5BA-5FBBED776B68",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D5A7ACB-ABB7-4916-912E-EA96FFDC20C0",
+    "height": 58,
+    "width": 255,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E390B690-665C-498F-B555-E12A5C6E8791"
+    },
+    {
+      "class": "group",
+      "id": "49B786EF-7509-4081-8FB2-F0CC755E5626"
+    },
+    {
+      "class": "group",
+      "id": "ED15337C-1785-4AA9-8A5E-D0342B81D512"
+    },
+    {
+      "class": "group",
+      "id": "23004EDA-E24B-4FC1-8DAC-4F68DC5C2558"
+    }
+  ],
+  "name": "attach_tile copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45B9CE7D-4CCB-4262-9461-476C5C9C08DF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "084647E6-6C3A-429F-8373-93964F331652",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "5AF81459-73E9-41A0-9712-289AC0122BAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35760668-E203-4AD5-BE48-F74B9A8F9035",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89D9D25A-C5AC-4BFF-9DD1-71CCD7148BF7",
+    "height": 5837,
+    "width": 1024,
+    "x": 49,
+    "y": -4891
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "81FCB901-5B79-4D0F-BBB7-4713DA169638",
+    "guides": [
+      391,
+      -93,
+      1180
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E51D867E-97A3-47FC-8443-0BAEDDC4B53D"
+    },
+    {
+      "class": "group",
+      "id": "1EE59A9A-82F9-43E8-8C91-AA6E397A1377"
+    },
+    {
+      "class": "group",
+      "id": "B14CA345-9C82-4510-A90F-5E67E4FEE675"
+    },
+    {
+      "class": "group",
+      "id": "DAF5D2B3-57D8-4E5A-AFE0-F498A9A3A06F"
+    },
+    {
+      "class": "group",
+      "id": "5DD79CCA-3D78-4927-9E5A-CE193D7C51D6"
+    },
+    {
+      "class": "group",
+      "id": "7FB812BA-0521-4DAB-9A6B-A5B22D24C877"
+    },
+    {
+      "class": "group",
+      "id": "9FCF7B6E-4020-40E6-B3F5-796FFE969A15"
+    },
+    {
+      "class": "group",
+      "id": "6C739D04-6AF5-4950-B459-767633B471B6"
+    },
+    {
+      "class": "group",
+      "id": "FB6789E9-3D38-40BD-A891-1A6303FE3C22"
+    },
+    {
+      "class": "group",
+      "id": "A78D21BB-1AF6-4CFC-9C9C-E2F3787D3874"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F5E3F9D3-2892-4173-970D-FEB5E1FEFFDD"
+    },
+    {
+      "class": "group",
+      "id": "37018E04-C112-427D-9930-F6BE0A410DC6"
+    },
+    {
+      "class": "text",
+      "id": "448A727A-120E-476F-BABC-4F38B1AAD8D5"
+    },
+    {
+      "class": "text",
+      "id": "B4B02FB7-97D6-4416-A645-C984F586E902"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "5B4BE435-84F3-43AB-B850-77CE45BB156C",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.81818181818182,
+    "guttersOutside": false,
+    "horizontalOffset": 32,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "file-tiles-new",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "693BE996-C1F8-41B4-A0B7-44C937228A23",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DF232548-0472-468E-930F-B30D136B3097",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "F90E615C-B935-46F8-95DB-D3B1C733FD9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA0CD1DF-DFA4-4D2C-9703-6E74DA1FDC94",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F396E0F6-4E1A-4BC6-800F-C6725FCE84BC",
+    "height": 58,
+    "width": 255,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "attachtile_archive",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30766CA9-1A0F-49B8-9A04-148A8E6774DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67B393B1-2AD9-4EA0-9BAC-8B569A6BC58E",
+  "verticalSpacing": 0
+}

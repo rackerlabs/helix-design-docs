@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "893F1815-93D1-4A3A-8FA0-FC9E92DCEA4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE6FCDC2-CC43-4E8E-A323-1BE348764EC8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55B504C2-1A17-4F95-B4B2-F922FB633FB7",
+    "height": 58,
+    "width": 255,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "attachtile_general",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31A1179F-5BC2-45AC-BE7B-A87FEDD0BD77",
+      "overrideName": "092D66BC-9967-46F1-8B97-2405AE9091B7/5FC0CE3C-424D-492D-9C9A-617C6B1ECE03_stringValue",
+      "value": "YSI"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BCC5543-3DCD-4CFE-9B23-CA2B1038096F",
+      "overrideName": "8E6AA680-5779-431E-908D-9FAD1AD762EE_stringValue",
+      "value": "altuniverse.ysi"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DCF8645D-C013-40D3-8A74-7A81881B5ADF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EF384F74-BF4B-4DF0-B8A5-8F6930A7C0FF",
+  "verticalSpacing": 0
+}

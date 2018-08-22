@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "2237CC10-7E54-455E-8246-8D92FBD2DA1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B78F6108-83A7-4F55-A123-E05B9BD67F80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70EC8A74-64F6-47C1-9CDF-46F718A169E6",
+    "height": 8,
+    "width": 159,
+    "x": 56,
+    "y": 35
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9ABA9F17-8DAB-45C6-B8F8-E0C2B31C1FD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "794F1DF0-8D12-4952-BCA7-0744292C159B"
+    }
+  ],
+  "name": "loading bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E47202E-0356-401C-96FE-B603C064EC95",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
