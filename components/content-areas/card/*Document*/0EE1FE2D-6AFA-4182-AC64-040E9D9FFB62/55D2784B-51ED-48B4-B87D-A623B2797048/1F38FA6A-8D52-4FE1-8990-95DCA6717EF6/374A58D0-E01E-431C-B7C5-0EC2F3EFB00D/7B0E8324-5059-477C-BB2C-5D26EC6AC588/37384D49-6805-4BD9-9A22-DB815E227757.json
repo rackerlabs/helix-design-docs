@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "37384D49-6805-4BD9-9A22-DB815E227757",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD22E1D3-C068-4967-BCD9-40E3C68A4E7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2272EA04-3A2F-485F-AFC5-674B86678D17",
+    "height": 156,
+    "width": 335,
+    "x": 21,
+    "y": 98
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Key-value / Horizontal / Group Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "246D1461-B878-4EA3-94A9-E2BB596C087C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "527FC326-1D21-4741-B981-FC7C3BEB40E3/57E167C0-A2CE-4032-B647-5C6972C4DF20/F77511A4-5446-4F1D-AF0D-1BDC2E5E5F0C_stringValue",
+      "value": "Date Modified"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BCF7BBB-65D6-42FC-93E3-6F1E8AD3E44F",
+      "overrideName": "5C64BD0C-5AA3-4E04-A75F-3DB7F378B79E/1A87CB8B-B5B7-443D-A45E-C6623605B56F/A9F6F4EF-8FDD-4233-BA28-692940463598_stringValue",
+      "value": "sirius@chocotaco.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B587EA71-59C5-4547-9673-D0CB6136AFEF",
+      "overrideName": "B8D3D19D-0E68-40CF-AD14-23012365F3AB/1A87CB8B-B5B7-443D-A45E-C6623605B56F/A9F6F4EF-8FDD-4233-BA28-692940463598_stringValue",
+      "value": "RSP-FW-91820201-182"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C97272A6-E05E-4389-8D87-337217C02FAF",
+      "overrideName": "527FC326-1D21-4741-B981-FC7C3BEB40E3/1A87CB8B-B5B7-443D-A45E-C6623605B56F/A9F6F4EF-8FDD-4233-BA28-692940463598_stringValue",
+      "value": "January 20, 2020"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F76166A8-72D6-4DE5-BADD-AE39EDB212C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "152ECC38-6BDD-42AD-A9A4-93F74EDA96E0",
+  "verticalSpacing": 0
+}

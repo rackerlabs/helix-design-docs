@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 16,
+  "do_objectID": "42324A26-E709-41F3-9805-5E23829880AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 210,
+    "width": 400,
+    "x": 15613,
+    "y": -75
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F9E3E986-AE49-4B94-AA66-94738108F035"
+    },
+    {
+      "class": "group",
+      "id": "717F7462-DAB0-43C0-89C0-94E18A710F7C"
+    },
+    {
+      "class": "text",
+      "id": "1C18129B-6E4B-479D-A0A7-16ED3BC76306"
+    },
+    {
+      "class": "text",
+      "id": "96653A71-682E-49D1-AA85-57F16F7B46D5"
+    },
+    {
+      "class": "text",
+      "id": "23311E92-D4C8-4C7D-B880-AA84D1C9F7FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAE65DA9-9473-4291-8112-11F4E73CC292"
+    },
+    {
+      "class": "text",
+      "id": "6A2DD2CE-E8BC-4300-85E8-68C1D093B047"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04F838FB-B7E2-4645-8A1C-287D875A8FD1"
+    },
+    {
+      "class": "text",
+      "id": "BCAE1FAD-332D-40B8-B3AC-AD831483046C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2015F00B-8001-43FF-9FD9-801947D68853"
+    }
+  ],
+  "name": "widgets / billing",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7804A3C7-ADCD-49BF-AC3B-B1A6ED7E593C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

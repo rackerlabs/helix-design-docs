@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "B0FEDD6D-F567-4E5B-9AB2-174A52314E93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / panel-with-header copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B47CB644-0D48-46BE-8CB1-BCA2851F1713/837FC1AF-7FC9-40F8-8F2D-044FBCE99C02_stringValue",
+      "value": "View All"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B47CB644-0D48-46BE-8CB1-BCA2851F1713/C1CD8778-EBD9-4DC0-A804-367B597CBDA9_stringValue",
+      "value": "Notifications"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F4D22ABA-C46D-4964-B86F-4A3C0D3A35D9_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "03A6B2EB-7F35-46EF-A885-482ADB6D0114",
+  "verticalSpacing": 0
+}

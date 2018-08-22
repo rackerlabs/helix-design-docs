@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3BCF6206-3A06-4441-AFA5-E85E589EA4BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 154,
+    "width": 400,
+    "x": 0,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CB017B9C-D2E4-40E7-B691-426BFDCC3881"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79CBBE21-5F99-40DE-81C0-AF097513DE1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "922416D1-217E-4E08-A959-7C00B7487B96"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20491985-8F4F-4F0C-80D2-1D1512C089FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4503546A-A5E2-41E8-ACDB-9D03AE3953FC"
+    }
+  ],
+  "name": "dashboard / list / item / text-row / default + dashboard / list / item / text-row / default copy 2 + dashboard / list / item / text-row / default copy Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

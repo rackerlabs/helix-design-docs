@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E31F39A9-5029-43C0-93EF-F2E2C68B8F11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4955B0F1-5A8B-4E9C-A663-EA6E15E44AB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB3F6A55-B856-447D-80AC-B2FFBE982E6E",
+    "height": 214,
+    "width": 377,
+    "x": 0,
+    "y": 79
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A596F31D-FB65-4FC2-A1FB-328DB0A0F07A"
+    }
+  ],
+  "name": "Card / Body 20px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02567229-4A12-4196-A299-BE947A6F7678",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

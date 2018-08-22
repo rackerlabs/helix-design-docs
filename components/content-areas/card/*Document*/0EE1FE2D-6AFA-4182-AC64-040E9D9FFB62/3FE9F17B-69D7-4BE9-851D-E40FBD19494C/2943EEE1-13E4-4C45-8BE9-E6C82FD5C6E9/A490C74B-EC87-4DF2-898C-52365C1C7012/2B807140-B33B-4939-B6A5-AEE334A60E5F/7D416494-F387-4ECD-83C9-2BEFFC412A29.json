@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "7D416494-F387-4ECD-83C9-2BEFFC412A29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3D621CA-F40F-44BB-90F1-85AB9317177A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "94CDB240-03E6-4D85-AA85-297A2D1B2A75",
+    "height": 90.21301775147931,
+    "width": 121,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card / Stage",
+  "nameIsFixed": false,
+  "originalObjectID": "81ED6462-7D22-4488-8626-F463B89A2042",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "241B661F-5804-4D92-8B77-524B8DA6DE34",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7F724B74-E4AC-46EB-9C4E-5987C6A66BDE",
+  "verticalSpacing": 0
+}

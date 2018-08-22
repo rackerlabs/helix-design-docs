@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D7F4CF6B-7B38-44C4-BE20-73A462889C0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BBA624A0-A0B6-4840-BC9B-1A0075DD5418",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98013066-0956-406A-8C0B-869DD1978426",
+    "height": 47,
+    "width": 298,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "labels/image-label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "516DF0AC-B5B7-4224-9369-AFCCB3B35E85",
+      "overrideName": "CF7C5F20-D27D-4555-98A3-210355CA92A2_stringValue",
+      "value": "SEGMENTED CARD WITH VISUALIZATIONS"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD41F5B7-E040-4E50-AF9A-E3C67FA02921",
+      "overrideName": "BE49D38C-14BF-45FF-BD0E-66DB36ABED37_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "274B1093-B02D-4485-85A1-B11140E6FBC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD342E2E-27F7-4B3F-B489-A4D553BD2DCA",
+  "verticalSpacing": 0
+}

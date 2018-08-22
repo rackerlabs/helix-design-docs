@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "888EAC6C-93AA-490F-AA4E-14C95E118113",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 59,
+    "width": 400,
+    "x": 0,
+    "y": 25
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / item / default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBF412D9-8838-4FF9-A30C-EC3DC7CB1359_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E7FE361-AB32-48FE-A1ED-B98CBFEE9045_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B44CD90A-65FF-4CCD-BE1D-D40D1D9789AE_stringValue",
+      "value": "Staging Account"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "02ED6C8B-26F1-4833-998F-A5F786D0044D_stringValue",
+      "value": "09876554321 (Navigator)"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "16EE6AE7-3ECF-4281-AE75-6FAC66FB108D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B52356D1-E853-43F5-BBD1-4E650D75081B_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6614458F-F8BB-4B4D-AD07-A5F729207A77",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "8222A4B3-C520-4004-AE7E-C422CC3CEE3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57934C16-0E2D-42F1-A807-8F06B814A693",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "970AC354-BDE9-454A-B442-FBB00CFC568F",
+    "height": 62.59678782755707,
+    "width": 121,
+    "x": 443,
+    "y": 32
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card / Body",
+  "nameIsFixed": false,
+  "originalObjectID": "DEEEE40E-1EAF-4233-9FB7-F1ACDA6FCA28",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F28C8394-0D19-4786-8537-22CC62F16C80_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54274E6F-4D8C-40D2-86E9-2F126248A10F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EDD01871-2085-4E86-B310-F5125E331024",
+  "verticalSpacing": 0
+}

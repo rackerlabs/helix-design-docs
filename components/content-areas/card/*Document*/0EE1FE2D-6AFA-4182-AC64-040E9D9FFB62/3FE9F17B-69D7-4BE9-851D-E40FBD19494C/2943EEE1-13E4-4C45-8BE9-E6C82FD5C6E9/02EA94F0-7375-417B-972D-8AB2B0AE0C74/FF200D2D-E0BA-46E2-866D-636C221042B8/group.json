@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "FF200D2D-E0BA-46E2-866D-636C221042B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DEE1BF6-93F0-4461-9D8D-A23994533FCB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DA6F5F1-CD14-40DB-B515-F843BDA936ED",
+    "height": 126,
+    "width": 169,
+    "x": 397,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4CA2D797-7EA0-479C-A997-15FB6A7D2E74"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D02B8D8-873C-48FA-895D-6814F8DD8C04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3396F37F-BCA6-492D-B7C2-56FEA51EE677"
+    }
+  ],
+  "name": "Card / Card Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37C6A88A-F2DF-4EDF-8633-83FC70FE591F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "0CAD9DEA-A6AC-4EA0-BD0B-63E32DB53115",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 59,
+    "width": 400,
+    "x": 0,
+    "y": 84
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / item / default copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B44CD90A-65FF-4CCD-BE1D-D40D1D9789AE_stringValue",
+      "value": "Device Upgrade"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "337E6E8B-01F2-46A9-A082-363362EAB4FE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65CDFA48-E99F-4DE0-8F2D-38F34491EEC9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B52356D1-E853-43F5-BBD1-4E650D75081B_stringValue",
+      "value": "5:23 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBF412D9-8838-4FF9-A30C-EC3DC7CB1359_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "16EE6AE7-3ECF-4281-AE75-6FAC66FB108D/46A16904-2C73-4D2A-817E-036527647AD7_stringValue",
+      "value": "Pending Customer"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "16EE6AE7-3ECF-4281-AE75-6FAC66FB108D/BF9F9071-E3AB-4C17-8D81-1B11CD4BB4CD_symbolID",
+      "value": "BE565F8A-466D-42DB-A094-7651F0A04DFC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "02ED6C8B-26F1-4833-998F-A5F786D0044D_stringValue",
+      "value": "Staging Account"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E7FE361-AB32-48FE-A1ED-B98CBFEE9045_stringValue",
+      "value": "Production Account"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6614458F-F8BB-4B4D-AD07-A5F729207A77",
+  "verticalSpacing": 0
+}

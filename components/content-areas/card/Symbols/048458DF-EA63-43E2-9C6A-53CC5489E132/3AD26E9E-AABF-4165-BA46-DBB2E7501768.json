@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "3AD26E9E-AABF-4165-BA46-DBB2E7501768",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 400,
+    "x": 0,
+    "y": 119
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / list / monitor copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7DC13793-3AEA-488F-A42B-E984BC2B6968_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AD2FAD8A-CC75-442E-9EB0-95371F36414B_stringValue",
+      "value": "Critical"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F3F6EAC9-7264-4550-950B-20F203C0D03A_symbolID",
+      "value": "D547D828-A5B0-488A-8FE9-A50FD9C8513A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE135E48-4828-451E-86EC-43BDEFF30D45",
+  "verticalSpacing": 0
+}

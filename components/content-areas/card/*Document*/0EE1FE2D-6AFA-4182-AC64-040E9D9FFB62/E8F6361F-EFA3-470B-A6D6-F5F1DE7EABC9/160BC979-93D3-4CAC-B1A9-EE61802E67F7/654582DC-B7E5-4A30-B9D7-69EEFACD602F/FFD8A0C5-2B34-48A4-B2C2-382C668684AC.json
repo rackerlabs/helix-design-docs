@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "FFD8A0C5-2B34-48A4-B2C2-382C668684AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F50D92F2-E200-49CC-B953-AD73E7137798",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE66E67F-9731-4529-B0ED-4A6E269B8829",
+    "height": 214,
+    "width": 377.0000000000001,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stage",
+  "nameIsFixed": true,
+  "originalObjectID": "B4676F32-16A8-4C55-9743-317B60DE25B7",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56D8CD9B-E273-4F32-AA84-C22E61EE6C17",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "261F71AC-20A7-4055-BDD7-8EA53943F37C",
+  "verticalSpacing": 0
+}

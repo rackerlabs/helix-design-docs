@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "DF529BF5-79A8-49E9-BF38-9BC0926B8459",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8643080C-F87A-416C-95A4-25FACC8125AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2AF21271-D06F-4148-AE55-7C8D664453BF",
+    "height": 122,
+    "width": 580,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Grid Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "66FD7A1C-FFA6-45DF-990B-8524EB959BE4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D225353-BDD0-4C67-BD15-DF3CD9D2DF37_symbolID",
+      "value": "D1F949AE-C9A8-4880-99D6-22D962C8593C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E12B1BF-7D1F-4416-A170-D6AC42B76A06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C9ED6B2C-179D-416A-9A0F-6ED7958E66A0",
+  "verticalSpacing": 0
+}

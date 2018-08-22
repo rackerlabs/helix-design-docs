@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "E0A2300A-6811-4638-817C-EF3A563BFA76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 210,
+    "x": 12,
+    "y": 13
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Compact/Secondary-Default",
+  "nameIsFixed": false,
+  "originalObjectID": "E0A2300A-6811-4638-817C-EF3A563BFA76",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5512B44A-2199-4328-9BEC-B5AEC7185EF7_stringValue",
+      "value": "Create Support Ticket"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 1,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD4B2F79-FB2E-446F-A6F1-51AEBB573B5A",
+  "verticalSpacing": 0
+}
