@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "F1B86EF3-87C5-436A-B4E0-1798206BF557",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 543,
+    "width": 256,
+    "x": 444,
+    "y": 2218
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4879B765-9563-47AF-83E2-10ED185F388E"
+    },
+    {
+      "class": "group",
+      "id": "6FC74967-D3DE-43C2-8AC4-3B62DA2DDCD9"
+    },
+    {
+      "class": "group",
+      "id": "5D8E8302-DC26-4C33-BC3B-379A048B45BE"
+    },
+    {
+      "class": "group",
+      "id": "5C955F0B-2681-4CD2-9C13-C8E3EA1E2779"
+    }
+  ],
+  "name": "progress-bar-behavior",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

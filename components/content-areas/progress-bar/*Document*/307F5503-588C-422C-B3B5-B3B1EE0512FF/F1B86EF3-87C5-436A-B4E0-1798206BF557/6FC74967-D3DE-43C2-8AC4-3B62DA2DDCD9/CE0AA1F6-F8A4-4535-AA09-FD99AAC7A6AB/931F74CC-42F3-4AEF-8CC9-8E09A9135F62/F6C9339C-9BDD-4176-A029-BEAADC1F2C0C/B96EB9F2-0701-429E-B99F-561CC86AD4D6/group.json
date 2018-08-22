@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "B96EB9F2-0701-429E-B99F-561CC86AD4D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E25BC18-8A7B-4D27-BF5B-EEC063D7231F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4081F1D7-2995-4F3C-8B33-E226E08A9FDE",
+    "height": 78,
+    "width": 255,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "183EEF1D-3079-49CF-A73E-11956F102F21"
+    },
+    {
+      "class": "group",
+      "id": "4C9D7FBB-1966-4DBE-81AA-A481F4B90253"
+    }
+  ],
+  "name": "attachtile_brand_docx",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D06098E-EF1F-46AF-A4AE-D590C48AC197",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

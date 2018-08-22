@@ -1,0 +1,81 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "B2FD3E22-F433-4BDD-9F4D-1BD36E222B44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -146,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "BD4DE7A8-DDA8-4B23-98AE-CBFB47F2521F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A697B103-D6A6-4724-A898-7EF0471F512B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AB51FEA8-03B3-466C-8413-FF8898937FE9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "08E639B1-37A2-40DF-9890-123F473EF5CF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AA557554-BFB9-4A26-B146-3F71E4EAC323"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CD6ABAE5-D270-487A-8891-D906DFEBC609"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -191,
+    "guides": [
+    ]
+  }
+}
