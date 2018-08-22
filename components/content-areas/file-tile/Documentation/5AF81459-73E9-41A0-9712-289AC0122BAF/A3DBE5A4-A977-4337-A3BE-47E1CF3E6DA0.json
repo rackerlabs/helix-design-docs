@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "A3DBE5A4-A977-4337-A3BE-47E1CF3E6DA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E2CA744-B0D9-4F63-B675-03E281640BE4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B048AB86-9017-40CB-935D-431526F79546",
+    "height": 58,
+    "width": 255,
+    "x": 392,
+    "y": 1512
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "attachtile_image_png copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8516345D-B2DA-4636-B37D-13FDFE61276A",
+      "overrideName": "019AC75F-7A03-4BD5-ADD9-2644FA999E6B/1953E109-24FA-4010-B0DC-EB52BCBDA587_stringValue",
+      "value": "TXT"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09A4C020-F053-424C-94FE-7B27262FB43A",
+      "overrideName": "019AC75F-7A03-4BD5-ADD9-2644FA999E6B/AF259DC1-921B-4A44-B74C-DC841F5EE8F0_symbolID",
+      "value": "150ED051-1C15-4177-A510-029A94E4C125"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2E95FE4-F581-476C-9F91-B3A6603D440B",
+      "overrideName": "A78C5C47-99BA-4AE6-8461-1C5B3D13B413_stringValue",
+      "value": "govtsecrets.txt"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "714BDF0F-D105-4BA9-B391-52182A0A3485",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BE2D3668-F03A-4F9E-B5AD-FEF6F56B8ACC",
+  "verticalSpacing": 0
+}

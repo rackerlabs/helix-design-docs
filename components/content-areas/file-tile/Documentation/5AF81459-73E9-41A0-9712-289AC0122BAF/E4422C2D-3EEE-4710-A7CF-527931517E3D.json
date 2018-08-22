@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "E4422C2D-3EEE-4710-A7CF-527931517E3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11F0F8BF-E930-42C7-B243-28D8F971B7D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55210E57-6272-48DB-8866-0EA7D805547D",
+    "height": 58,
+    "width": 255,
+    "x": 392,
+    "y": 1590
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "attachtile_image_png copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8516345D-B2DA-4636-B37D-13FDFE61276A",
+      "overrideName": "019AC75F-7A03-4BD5-ADD9-2644FA999E6B/1953E109-24FA-4010-B0DC-EB52BCBDA587_stringValue",
+      "value": "MP4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09A4C020-F053-424C-94FE-7B27262FB43A",
+      "overrideName": "019AC75F-7A03-4BD5-ADD9-2644FA999E6B/AF259DC1-921B-4A44-B74C-DC841F5EE8F0_symbolID",
+      "value": "A62AE633-A0FE-4D3D-97A1-3B0A9E57CD57"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2E95FE4-F581-476C-9F91-B3A6603D440B",
+      "overrideName": "A78C5C47-99BA-4AE6-8461-1C5B3D13B413_stringValue",
+      "value": "BlankManVHS.mp4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86E9BDFF-EB73-4F27-80DD-97BA3F533158",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BE2D3668-F03A-4F9E-B5AD-FEF6F56B8ACC",
+  "verticalSpacing": 0
+}
