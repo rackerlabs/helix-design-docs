@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "BBDD98CB-5944-49E9-A710-3067C18E043C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 518,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Content Areas: Modals / Modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4E147C8-1A16-49EA-92E1-C310F3D730A5",
+      "overrideName": "4D4C2A78-1AAF-4183-93E0-1486E4E383EC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA4B4D74-CC92-4B17-8958-6AABA45B7E8C",
+      "overrideName": "45CE3F65-7D7A-4159-BD5B-E7D3631DA902_stringValue",
+      "value": "This will override previously saved preference settings for this account and opt-out message delivery for this notification type. Please confirm if you wish to continue."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1EB0C85-2500-48CA-A534-724ECB825C4E",
+      "overrideName": "5E9239C5-7B2B-40AC-89CB-D334A4E662E8_stringValue",
+      "value": "Remove Selected Categories?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9E993E4D-946D-4548-8478-D025749403EA",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,129 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "50554829-3227-411E-BE00-6CA257434959",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 519,
+    "width": 656,
+    "x": 488,
+    "y": 4346
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "58C5D433-C3B6-4307-A605-EC2024ED3654"
+    },
+    {
+      "class": "text",
+      "id": "A8CE4F33-C23D-4442-9851-EF0A3C5B2F07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D34137ED-9D2C-4836-A62D-27B4D10880FB"
+    },
+    {
+      "class": "text",
+      "id": "AB96F3A7-7BAB-4C39-BAE8-12E8B17A1932"
+    },
+    {
+      "class": "text",
+      "id": "58F25926-C683-4914-9570-CA18318A8F4F"
+    },
+    {
+      "class": "text",
+      "id": "BF3B6B18-1F53-40BB-B9B6-F97AEF3259BF"
+    },
+    {
+      "class": "text",
+      "id": "F3876973-7DB0-4C97-BBFB-3DBA35DDCBF1"
+    },
+    {
+      "class": "text",
+      "id": "73A1BF90-7F55-4108-92AD-C33E96EFC23A"
+    },
+    {
+      "class": "text",
+      "id": "FBFC00D2-A3D3-4EE2-8798-D08B7944B969"
+    },
+    {
+      "class": "text",
+      "id": "17250DAD-B7F0-4304-A1EF-9B52C605E684"
+    },
+    {
+      "class": "text",
+      "id": "49A86B2B-A078-4937-AA5E-909CF7722902"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22741E64-819F-4819-9F5E-326BDBBA57D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4AE88A5-3826-47DF-83EA-34CD232430C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57E484F6-92D3-4045-939D-6AA88E3A437A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2AF9C26-73DC-4C7D-81E3-8B550CA87652"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9FC296E-E32C-4E2A-9E73-D089161E5E6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CD4AFCE-8D95-49FB-96A4-C418E7311AC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B43D5DB-B22C-4176-AF5E-942EE4792FAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2D2CEC2-9AFB-4553-B5C2-7530B77D4636"
+    }
+  ],
+  "name": "modals-educational-modal-composition",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

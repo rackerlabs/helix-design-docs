@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "D50F42AC-CF13-4784-A850-7F81D59C4350",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73108B14-651A-479E-BF00-AE078E8CCFE7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F93AB4C6-9FFD-4FC1-976A-1D2AE333C539",
+    "height": 331,
+    "width": 518,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Content Areas: Modals / Modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F868E22F-AB2E-4076-856D-639DC24CCD9F",
+      "overrideName": "4D4C2A78-1AAF-4183-93E0-1486E4E383EC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "333369CA-EF05-4E46-A5E2-CB6B9910B3F2",
+      "overrideName": "45CE3F65-7D7A-4159-BD5B-E7D3631DA902_stringValue",
+      "value": "I am authorized to request that the Managed Hosting and Cloud services accounts be linked. To the extent that the customer name on the accounts differs, as a person with authority I hereby assign the Cloud Services account and related agreement (the \"Cloud Account\") to the person (individual or legal entity) who is the \"Customer\" under the Rackspace Hosting services agreement. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5364B736-F910-4F91-BA32-4D05912B58DA",
+      "overrideName": "5E9239C5-7B2B-40AC-89CB-D334A4E662E8_stringValue",
+      "value": "Terms & Conditions for Linked Accounts"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE6BCD29-BF03-4C2C-86E1-9F23447202AE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9E993E4D-946D-4548-8478-D025749403EA",
+  "verticalSpacing": 0
+}

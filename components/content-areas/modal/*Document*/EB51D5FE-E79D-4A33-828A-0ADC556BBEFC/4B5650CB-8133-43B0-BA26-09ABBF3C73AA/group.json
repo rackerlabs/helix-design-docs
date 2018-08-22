@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "4B5650CB-8133-43B0-BA26-09ABBF3C73AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 253,
+    "width": 1024,
+    "x": 0,
+    "y": 1839
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A4B374AF-AA57-42D7-8F45-FF7A4B96D006"
+    },
+    {
+      "class": "group",
+      "id": "C8648544-5699-4A7F-A0B9-B5A40CA13E79"
+    },
+    {
+      "class": "group",
+      "id": "651089BA-48A3-4910-82ED-B4CD3CBC8B07"
+    },
+    {
+      "class": "group",
+      "id": "1B1A0671-36F5-48DC-98C6-29B62A906E06"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF902D57-DB00-4BC4-80E0-8544D922139B"
+    }
+  ],
+  "name": "Section-Sub-Patterns",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

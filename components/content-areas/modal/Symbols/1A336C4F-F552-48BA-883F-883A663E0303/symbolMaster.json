@@ -1,0 +1,118 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 3223,
+  "do_objectID": "1A336C4F-F552-48BA-883F-883A663E0303",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 495,
+    "width": 784,
+    "x": 42725,
+    "y": -93
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2CD3C1B7-9649-4799-91BA-01676DED2C98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C629524A-284F-43F9-8766-D03731B29523"
+    },
+    {
+      "class": "group",
+      "id": "EB0E8118-FA40-4764-A370-8C3C3592F6E4"
+    },
+    {
+      "class": "group",
+      "id": "EAAAC629-9698-4F27-8FD0-75F0BC27CEF5"
+    },
+    {
+      "class": "group",
+      "id": "17CEC77D-3467-40E1-8685-04180492FF3F"
+    },
+    {
+      "class": "text",
+      "id": "A3FF2598-541D-4E3E-8344-027BB4D32CA1"
+    },
+    {
+      "class": "text",
+      "id": "FB34FE48-54BA-4C66-8A2A-DD988C64CD7C"
+    },
+    {
+      "class": "text",
+      "id": "3B94FA4B-3472-41DB-A3D5-0920C3DC11CD"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 98,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 48,
+    "isEnabled": true,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 688
+  },
+  "name": "educational-modal",
+  "nameIsFixed": false,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "98240833-D875-4220-B270-DBC42766C115",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

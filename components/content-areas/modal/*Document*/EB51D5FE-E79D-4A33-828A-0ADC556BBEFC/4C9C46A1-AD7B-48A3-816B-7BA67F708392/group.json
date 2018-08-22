@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "4C9C46A1-AD7B-48A3-816B-7BA67F708392",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C73E411-6A09-4A66-AC38-F53D1FDB4D43",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "97FC80CB-2E5A-434A-8C3E-7833BE3C58CA",
+    "height": 391,
+    "width": 633,
+    "x": 196,
+    "y": 555
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1415D334-80F5-4215-8F4C-79BD6CB007B0"
+    },
+    {
+      "class": "group",
+      "id": "EA2C9D19-24B6-4083-802E-C2FC6EA30533"
+    }
+  ],
+  "name": "modals-hero-image",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "703BC72C-4F3C-4CF6-9B10-1EB60D31EE14",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

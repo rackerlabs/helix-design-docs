@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "98F4F502-80F5-428D-BF04-C0FB5DFE4F88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE52EA39-03C6-4F8C-8F26-38443B98D404",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E6A7E0B-D480-45BB-B588-0D4EE9381B81",
+    "height": 19,
+    "width": 126,
+    "x": 518,
+    "y": 338
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "redlines/reference tag copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58CC5840-BCE1-4E32-ABD7-3E402F563BE9",
+      "overrideName": "1C2BA5E3-CB2E-4097-BC58-E6E0BEAE1829_stringValue",
+      "value": "Body Font"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E47B1E1E-EE39-4DBE-8C1F-3DA535D9B670",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAAFFEF9-E3E4-477F-A6B4-EF0B32E2F66F",
+  "verticalSpacing": 0
+}
