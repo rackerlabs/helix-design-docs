@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8869F53A-D9B6-4525-AE12-225EEAB6D8EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D92D7DDB-AEE1-42A7-99AE-47186782F6F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "331269EE-70DF-40D7-9C80-0C63DA8EF9B6",
+    "height": 513,
+    "width": 960,
+    "x": 32,
+    "y": 1149
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DE5C893F-F7B6-41D9-BAE5-7E3583A35E39"
+    },
+    {
+      "class": "text",
+      "id": "D45E9C8D-0E72-4F10-A579-D88DBC790AB3"
+    },
+    {
+      "class": "text",
+      "id": "6C76A36E-9332-4CA1-AC4D-FBC1FC5D102A"
+    }
+  ],
+  "name": "Composition: Button Logic",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "265B3637-A547-484D-92E7-2F5C17EA9DD2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

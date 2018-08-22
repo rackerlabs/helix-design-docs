@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "069578E2-125E-4A36-B093-A899F6B131EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3199C41-2773-4AA8-9FA5-92817EFACDDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AEE258B5-FBE8-4A0C-9EB7-6D5136B5C561",
+    "height": 316,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2D4E3807-2773-4936-8A88-4612F8C8AD61"
+    },
+    {
+      "class": "text",
+      "id": "3CC6BAD3-6C9A-4F3F-9A33-16052B7493BA"
+    },
+    {
+      "class": "text",
+      "id": "9DD009C7-CAE8-4604-AC51-7563B4255353"
+    }
+  ],
+  "name": "help/ background",
+  "nameIsFixed": false,
+  "originalObjectID": "A697B103-D6A6-4724-A898-7EF0471F512B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C895B47A-4010-4D3D-89FA-BBFF429AC940",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

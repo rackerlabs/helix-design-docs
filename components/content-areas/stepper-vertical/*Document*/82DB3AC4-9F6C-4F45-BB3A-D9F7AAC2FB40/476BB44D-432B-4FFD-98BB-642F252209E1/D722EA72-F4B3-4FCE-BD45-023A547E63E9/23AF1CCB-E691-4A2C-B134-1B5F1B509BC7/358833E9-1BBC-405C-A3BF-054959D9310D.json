@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "358833E9-1BBC-405C-A3BF-054959D9310D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E3D7E90-D28C-4B20-A982-D1CB3F919749",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6EDBD84-F4DB-457C-B74F-A94D546CABD8",
+    "height": 47,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "labels/image-label copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8218DA30-B81D-4585-A812-A83D725340E3",
+      "overrideName": "CF7C5F20-D27D-4555-98A3-210355CA92A2_stringValue",
+      "value": "INTERMEDIATE STEP"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6A94EB3-CC6D-452F-AD42-EB9C39330F18",
+      "overrideName": "BE49D38C-14BF-45FF-BD0E-66DB36ABED37_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "630E1E16-6585-42D0-AA58-52391D38BB06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "887B2A75-064F-4169-AA00-BBDDFD63CA07",
+  "verticalSpacing": 0
+}

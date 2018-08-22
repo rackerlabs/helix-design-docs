@@ -1,0 +1,139 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "1DF624A2-0EC7-4B90-91FD-39E861298BDF",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3.199396977777778,
+    "width": 3.781790302040819,
+    "x": 0,
+    "y": 0
+  },
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.26019184652278138}",
+      "curveMode": 3,
+      "curveTo": "{0, 0.84584832134292576}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.60266786570743403}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.84710743801652921, 0}",
+      "curveMode": 3,
+      "curveTo": "{0.32644628099173667, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.76033057851239627, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.034172661870503301}",
+      "curveMode": 4,
+      "curveTo": "{0.9379266978081231, 0.013714028776978407}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{1, 0.034172661870503301}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.89256198347107207, 0.23973321342925649}",
+      "curveMode": 4,
+      "curveTo": "{0.94628099173553604, 0.26363908872901687}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.94628099173553604, 0.26363908872901687}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.50826446280991855, 0.22601918465227808}",
+      "curveMode": 3,
+      "curveTo": "{0.83057851239669211, 0.22601918465227808}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.75610851598994122, 0.22601918465227808}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.36363636363636365, 0.71912470023980801}",
+      "curveMode": 3,
+      "curveTo": "{0.36363636363636365, 0.40407673860911247}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.36363636363636365, 0.57531474820143869}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.69008264462810032, 0.77390587529976018}",
+      "curveMode": 3,
+      "curveTo": "{0.47933884297520751, 0.77390587529976018}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.59090909090909349, 0.77390587529976018}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.87603305785124008, 0.71223021582733814}",
+      "curveMode": 4,
+      "curveTo": "{0.77272727272727526, 0.75681954436450827}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.87603305785124008, 0.71223021582733814}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.74380165289256428, 0.97939148681055166}",
+      "curveMode": 4,
+      "curveTo": "{0.82231404958677612, 0.94859112709832138}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.82231404958677612, 0.94859112709832138}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.19412504491555879, 1}",
+      "curveMode": 3,
+      "curveTo": "{0.61983471074380447, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.49164570607258451, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "E76F10C1-2A30-4BC4-946D-F150A459E20C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 601,
+    "width": 591,
+    "x": 391,
+    "y": 380
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C221B6DE-3C95-4A61-9078-8850A2B3F3EA"
+    },
+    {
+      "class": "group",
+      "id": "544A8EF5-15A0-43F1-94DD-A8CFCEC69FC6"
+    },
+    {
+      "class": "text",
+      "id": "DF03AB54-7026-49DB-86BD-4B2064666740"
+    },
+    {
+      "class": "text",
+      "id": "BD518F1C-CA8F-4084-B09E-9EF8DFF3FCA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2325AEC7-370C-40CA-A455-948DDF4ACB30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56149910-6A4E-4077-8DEC-42242CC320CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9E3ECDA-6CD6-46DA-9277-D68BB012F2F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D69939D-187A-46CD-BE23-19978D2D7B12"
+    },
+    {
+      "class": "group",
+      "id": "9CFC42FD-E426-4C8A-94C0-AC8051CF6024"
+    },
+    {
+      "class": "group",
+      "id": "69A7BF08-C8E6-49AE-B35E-119FDDFC318A"
+    },
+    {
+      "class": "group",
+      "id": "FA4EB5E2-8ACD-4D67-9D56-BE5FBA4D53AC"
+    },
+    {
+      "class": "text",
+      "id": "10133029-DDFE-4FEA-8BDD-DE1F090FA75B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "890802FE-A070-4833-8279-3196EEBA2A52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8D0589D-AB8B-444E-AFF9-77B19934FDCF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97201E03-8A8B-4D16-9683-09BCA2EB77B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AA26DC4-F79A-4AA2-A7AF-E79386F22EE9"
+    }
+  ],
+  "name": "stepper-vertical-composition",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
