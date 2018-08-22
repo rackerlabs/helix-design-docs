@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "D9E2E0C3-F06C-4F0F-9281-563A4DB2C3AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17F63FD5-C0CC-418C-865F-E453B55A000F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4306D876-FE25-42D3-85FF-648ACA751D77",
+    "height": 455,
+    "width": 1024,
+    "x": 0,
+    "y": 523
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "36AE839A-BAB9-4DB3-A159-0083A69DF1F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "257FE66F-EC0F-45F0-A776-8B93AC8F3D00"
+    },
+    {
+      "class": "group",
+      "id": "08B3FE79-B1AB-4FD7-B6B2-62324DCFC31C"
+    }
+  ],
+  "name": "Section-Hero-Image",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C52BBA80-E546-40CC-9356-36BCC2195DCF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

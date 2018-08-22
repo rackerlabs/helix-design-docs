@@ -1,0 +1,89 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7BCACBAC-0631-41EE-AEBF-B66625A7149B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 380,
+  "do_objectID": "133B8444-1410-44E2-8E68-5295E61CB705",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D91A168-43CC-4E6B-B9D9-2DC1F50A417E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE3054EA-C25D-4FB0-9273-D713E2B67B3A",
+    "height": 40,
+    "width": 40,
+    "x": 100,
+    "y": 1400
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CD6B5163-C64D-4233-80D6-02D4876C69FA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A65EE5E1-FF27-4507-A5E8-78B5BFA2CE50"
+    },
+    {
+      "class": "text",
+      "id": "BFF4D77B-7B4E-487E-9EAE-1E13D6BE9774"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A129728-322C-48AA-8ECA-D612CBF2FB8A"
+    }
+  ],
+  "name": "branded_powerpoint copy 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40E11FB6-0E09-4BC0-B261-E295B04E1D99",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "82C9B60D-2744-4D17-A4A4-7968F3844EFD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4DE6BCB3-6710-40D0-9BD3-90FC723DC140",
+    "guides": [
+    ]
+  }
+}

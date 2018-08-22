@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "13BCC5AF-5B0F-4BB7-AEC5-D96924F863DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55863236-F7DB-4A69-AA74-BE4CDCBB2C61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AFF2BCE6-97BF-43D4-AD2E-9D077A32FB36",
+    "height": 316,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "help/ background",
+  "nameIsFixed": false,
+  "originalObjectID": "A697B103-D6A6-4724-A898-7EF0471F512B",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FC0D42B0-36EF-4794-BE15-884EB6AE040D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FC0D42B0-36EF-4794-BE15-884EB6AE040D/DC175DF7-D674-45F1-99E2-B40226C1B1B3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "941FBABD-A37A-46A1-883D-AA3565E972CA_stringValue",
+      "value": "Overview"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E462B970-04E7-4105-B2B2-D485B93E6FFF_stringValue",
+      "value": "This is the basic info that ALL patterns will require in order to be posted.  Fill these sections out.  If possible, try to keep the layer group names consistent.  If you don't, no worries, the Helix Ops team can clean the doc up before publishing"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50DAA558-2C3C-4E0E-8ADB-3A5E1D4FAA08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2664E371-0EA6-4C4E-A0DA-49BDB9FFCAC4",
+  "verticalSpacing": 0
+}
