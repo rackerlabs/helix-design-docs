@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "40BE9F98-B358-4FAC-89FA-CFB3C1492659",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59AC26E9-60BA-45B9-ADA9-B65CB561F75E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "437F9894-269C-4AE1-8DC6-4EF2C141E0EE",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "90427C43-9E1F-49FD-A7ED-366FDA2794D5"
+    },
+    {
+      "class": "group",
+      "id": "EFEFCA35-5F13-44C2-AA09-E919F92FDF42"
+    }
+  ],
+  "name": "Icon chip",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83A76493-AA5C-453B-9A58-F6BB6BA577FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

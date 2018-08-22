@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "5DEA3AD5-D75B-4680-80B8-65FA4F82E043",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 256,
+    "width": 1024,
+    "x": 0,
+    "y": 1204
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8761326F-9BF8-4FEB-BA41-4732B8FD0CAD"
+    },
+    {
+      "class": "text",
+      "id": "F97DD58C-AFC6-4DF0-8221-83E2E502FBE1"
+    },
+    {
+      "class": "text",
+      "id": "F221E2D9-2DC3-4A44-9B81-96274C15ED71"
+    },
+    {
+      "class": "group",
+      "id": "687C261E-100C-4A13-9C95-EFAC0A97DA3D"
+    }
+  ],
+  "name": "Section-Best-Practice",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

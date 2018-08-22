@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "B384B54C-2DAE-49A3-9616-565A897EC9A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1A350F9-8B21-4A56-95E5-A096B18B7043",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B290487-6222-4ECC-AC64-274F95405F4E",
+    "height": 59,
+    "width": 56,
+    "x": 1,
+    "y": 44
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3B0B4576-6641-4310-8B73-D090E56AE4E5"
+    },
+    {
+      "class": "group",
+      "id": "FD6478CB-AA59-4CAF-B78C-1A15152C650A"
+    },
+    {
+      "class": "group",
+      "id": "0D2C79B6-50F1-4532-8718-C31363FE84A1"
+    }
+  ],
+  "name": "Attached Devices chip + spacing blocks",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AE649DF-95E4-4C7E-9B4C-FA6EFF43BA0E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

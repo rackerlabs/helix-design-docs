@@ -1,0 +1,174 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "307F5503-588C-422C-B3B5-B3B1EE0512FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2074,
+    "width": 1024,
+    "x": 73812,
+    "y": 9564
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AD644DF7-A9B8-4852-86F4-81F6EDA2DD2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2CB63AC-3084-4712-A726-4EF562394F67"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A880A44-717D-42B8-A549-3D4C8B8E7699"
+    },
+    {
+      "class": "text",
+      "id": "B963FEC1-2691-4CD5-B668-EFD155488688"
+    },
+    {
+      "class": "group",
+      "id": "8F025666-B20E-43A8-BE64-A23D6DC809BC"
+    },
+    {
+      "class": "group",
+      "id": "50AB2E4E-C7C0-4E09-AA72-59C44F4195CC"
+    },
+    {
+      "class": "group",
+      "id": "7D17365C-DC48-4CB1-93D5-DF6AE7F4EDD3"
+    },
+    {
+      "class": "group",
+      "id": "D91C167F-861B-4A20-A9C7-9139D60436DF"
+    },
+    {
+      "class": "text",
+      "id": "B230368E-6828-4A82-9484-ED6F552CEA31"
+    },
+    {
+      "class": "group",
+      "id": "F36784AD-5E82-49EF-82B2-755F9819D174"
+    },
+    {
+      "class": "group",
+      "id": "0B93541F-CD0E-497B-9C92-C95634D8B3DE"
+    },
+    {
+      "class": "group",
+      "id": "3300040B-309C-4EF7-B767-9B915006AAAD"
+    },
+    {
+      "class": "text",
+      "id": "C6FC51D2-CEA0-4869-BC65-BDA7DFBA31B2"
+    },
+    {
+      "class": "group",
+      "id": "4813379C-FFDD-44B1-B455-2F8BAFDD9441"
+    },
+    {
+      "class": "group",
+      "id": "58466B03-FBF8-46B8-B5A3-BF179E1C4907"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EB2DFCC-83AF-4CBE-BA1C-9DB92CD9C29E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.81818181818182,
+    "guttersOutside": false,
+    "horizontalOffset": 32,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "HelixContent_REVIZ_Chips_02",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
