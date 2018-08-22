@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "6A99F6F2-C30F-4698-A981-90EF20F308DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9AB21EAD-37A0-43B9-9AAF-A0D759D36027",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CB42447-E1B9-4825-A51D-3AC2DE18974B",
+    "height": 368,
+    "width": 366,
+    "x": 0,
+    "y": 23
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Content Areas: Modals / Overlay",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA9C2C2E-5A64-4E28-A97F-43D9D01C64E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B66414A7-141D-45DA-8202-6BCFECE4B8E6",
+  "verticalSpacing": 0
+}

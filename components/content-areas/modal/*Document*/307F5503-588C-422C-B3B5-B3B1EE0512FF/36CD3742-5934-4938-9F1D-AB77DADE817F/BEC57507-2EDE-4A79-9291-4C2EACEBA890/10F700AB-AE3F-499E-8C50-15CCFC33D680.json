@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "10F700AB-AE3F-499E-8C50-15CCFC33D680",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 244,
+    "width": 350,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Content Areas: Modals / Modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE4ECBD7-8F52-4865-BA53-AE84BC2DCD1E",
+      "overrideName": "4D4C2A78-1AAF-4183-93E0-1486E4E383EC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3C6D56F-0A4C-4906-8B5C-226147ADA4A1",
+      "overrideName": "45CE3F65-7D7A-4159-BD5B-E7D3631DA902_stringValue",
+      "value": "Modal message. Describe exactly what will happen as a result of the action tied to this modal. Be descriptive, yet brief.Lorem ipsum dolor sit amet, consectetur."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9E993E4D-946D-4548-8478-D025749403EA",
+  "verticalSpacing": 0
+}

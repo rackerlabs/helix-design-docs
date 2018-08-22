@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "0689F1E4-15AE-4E26-97D5-6F3208F4536A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 455,
+    "width": 620,
+    "x": 492,
+    "y": 5612
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9CFA413A-DC67-470A-B3B0-0FA2C0183654"
+    },
+    {
+      "class": "group",
+      "id": "C066B421-19E3-4EA7-A9F6-EE1061838277"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FA7CF1E-48EC-427C-8BC0-6537CD70D7CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CF1111A-395D-453A-9EC8-F39A64AD9522"
+    }
+  ],
+  "name": "modals-educational-modal-grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

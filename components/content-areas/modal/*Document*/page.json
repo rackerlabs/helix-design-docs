@@ -1,0 +1,91 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "137DEB26-C892-4BF0-915F-276869ED7B29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -606,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "307F5503-588C-422C-B3B5-B3B1EE0512FF"
+    },
+    {
+      "class": "artboard",
+      "id": "EB51D5FE-E79D-4A33-828A-0ADC556BBEFC"
+    },
+    {
+      "class": "artboard",
+      "id": "031F06DC-6B91-42A9-B975-DB0DD07A1927"
+    },
+    {
+      "class": "group",
+      "id": "C387D36E-626D-454D-BBE9-2A3141EF80CB"
+    },
+    {
+      "class": "bitmap",
+      "id": "820D4283-7F38-47A2-9441-6F4A243D85E5"
+    },
+    {
+      "class": "group",
+      "id": "45786DD4-C1EF-4594-B4FA-02C4CC14959F"
+    },
+    {
+      "class": "group",
+      "id": "88832BCC-127E-45CC-9AC0-06C07331A814"
+    }
+  ],
+  "name": "*Document*",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "includeHotspotsWhenSyncing": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -394,
+    "guides": [
+      1595
+    ]
+  }
+}

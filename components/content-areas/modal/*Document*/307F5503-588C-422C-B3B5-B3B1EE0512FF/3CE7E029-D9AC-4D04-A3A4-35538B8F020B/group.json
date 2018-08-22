@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3CE7E029-D9AC-4D04-A3A4-35538B8F020B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 455,
+    "width": 663,
+    "x": 509.9999999999999,
+    "y": 6317
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D4657CB5-0B89-41CC-A940-5BA98CEB7B3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00D3E786-9717-4BB4-86F6-9E7FC09E4AC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E49DDE3-4B07-4FF8-85CE-DEDE96FA8ACC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98F4F502-80F5-428D-BF04-C0FB5DFE4F88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8121B141-FDCB-4DEA-8F61-4417E5DA160A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5ABEE3D1-0D86-48DA-B8D8-6340798E988B"
+    },
+    {
+      "class": "text",
+      "id": "BF77C966-618D-493F-B719-8D6A091368CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34FB0B54-D889-42ED-8D18-061569901F87"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AB123AF-74BB-4D84-9B03-71FEE8B9BE55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F4430DB-37C8-40B9-9ADA-B12E234B6D0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26798F08-C76A-4C2A-9EFF-92967D451FF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7BB3CFB-4AE9-435D-A808-23E13A5009F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20A6CC74-F5A0-4363-86D6-B9F0D03F10EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F00C7991-011E-417E-925A-B37DB18E52B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C2C1438-0E22-4682-9884-C26E7D724366"
+    }
+  ],
+  "name": "modals-educational-modal-style",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

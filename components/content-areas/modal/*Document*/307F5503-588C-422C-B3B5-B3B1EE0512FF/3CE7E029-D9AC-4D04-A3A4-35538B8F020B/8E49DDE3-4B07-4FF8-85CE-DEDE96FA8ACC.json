@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "8E49DDE3-4B07-4FF8-85CE-DEDE96FA8ACC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F50CF4B-7A80-4E9F-A1B1-C0663BE579DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33217E43-9927-40BF-8796-EF8163DE3684",
+    "height": 19,
+    "width": 126,
+    "x": 518,
+    "y": 111
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "redlines/reference tag copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58CC5840-BCE1-4E32-ABD7-3E402F563BE9",
+      "overrideName": "1C2BA5E3-CB2E-4097-BC58-E6E0BEAE1829_stringValue",
+      "value": "Carousel Indicators"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C618897C-5CD5-410D-AC3F-FB2FDD8C16AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAAFFEF9-E3E4-477F-A6B4-EF0B32E2F66F",
+  "verticalSpacing": 0
+}
