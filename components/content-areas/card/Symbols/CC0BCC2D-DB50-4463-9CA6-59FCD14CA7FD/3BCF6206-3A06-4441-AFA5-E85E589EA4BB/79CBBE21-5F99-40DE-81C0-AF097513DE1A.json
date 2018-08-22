@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "79CBBE21-5F99-40DE-81C0-AF097513DE1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 59,
+    "width": 400,
+    "x": 0,
+    "y": 177
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / list / item / text-row / default copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E7FE361-AB32-48FE-A1ED-B98CBFEE9045_stringValue",
+      "value": "Staging Account"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B44CD90A-65FF-4CCD-BE1D-D40D1D9789AE_stringValue",
+      "value": "May Invoice Available"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "02ED6C8B-26F1-4833-998F-A5F786D0044D_stringValue",
+      "value": "May 31, 2017 - 12:01 AM CDT"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "16EE6AE7-3ECF-4281-AE75-6FAC66FB108D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65CDFA48-E99F-4DE0-8F2D-38F34491EEC9_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6614458F-F8BB-4B4D-AD07-A5F729207A77",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "136FE6AE-2CE3-407D-9B1D-AA109E08BB16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F03DCD6-16BE-465B-9B17-3BFCB79EB30D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39116264-6DDD-403B-A819-CC6686F0AC79",
+    "height": 110,
+    "width": 336,
+    "x": 21,
+    "y": 98
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A884AF5F-F3CB-401D-AE87-F394460AB142"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7A32F2D8-CCDE-4BD6-8508-D9BA895821BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB0EE69A-4B4F-4117-A84E-BC16143FBA97"
+    },
+    {
+      "class": "text",
+      "id": "559B921F-077B-4FFD-9A57-55AB036950F2"
+    },
+    {
+      "class": "text",
+      "id": "E6E3516A-9D2D-471B-BE01-EA125A146AB1"
+    },
+    {
+      "class": "text",
+      "id": "3A28446E-BCE5-462C-A700-70E6BB557220"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E293D19-53FD-4946-932F-A40B09948A7A"
+    },
+    {
+      "class": "text",
+      "id": "5C45FA9B-7736-4199-9605-8F4FEC63364F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5D04F67-ED69-4162-A0C4-4F8E95A43752"
+    },
+    {
+      "class": "text",
+      "id": "E26F2F8B-2E0D-462E-9AA7-C40A3DA72DE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D8B675E-D308-46A1-AF89-4FA8DCB2ADF5"
+    }
+  ],
+  "name": "Group Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8150A35-E977-404F-9D17-AFB9A6AACFDD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

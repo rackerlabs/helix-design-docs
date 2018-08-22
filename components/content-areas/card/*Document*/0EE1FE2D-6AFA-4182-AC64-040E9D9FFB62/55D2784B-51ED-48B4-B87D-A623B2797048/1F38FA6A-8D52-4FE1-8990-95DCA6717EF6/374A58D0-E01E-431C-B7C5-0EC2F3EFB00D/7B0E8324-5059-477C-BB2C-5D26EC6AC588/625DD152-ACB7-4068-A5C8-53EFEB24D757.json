@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "625DD152-ACB7-4068-A5C8-53EFEB24D757",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EDB3AD99-6184-4547-BA66-107BFDC7C688",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "886EBB15-82A8-404E-8976-EBA6C747DF4C",
+    "height": 32,
+    "width": 94,
+    "x": 224,
+    "y": 295
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Compact Copy 6",
+  "nameIsFixed": false,
+  "originalObjectID": "0C2D402B-EF86-4B71-BEC4-CD7AC4D096C0",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C2CDC604-66DD-4E41-94E4-6433E94A1369_symbolID",
+      "value": "049932B1-260B-4BB2-8C6E-F104A984244B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C2CDC604-66DD-4E41-94E4-6433E94A1369/04776AF7-23E7-49E2-85A1-7BA1CBD6390B/1524F98C-20DE-4C5E-90F4-9E305FBD8DC4_stringValue",
+      "value": "Remove User"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "149C46B7-AD2A-4275-98F8-B2EBF8D65E7A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F770CD8-B5A6-4D9D-B6D7-C90C6FF54CF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A55A93A9-256B-4056-8156-33C7608A0EB7",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "F081DD28-CAC7-4AFB-B068-87E6C11EBF9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 210,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard / panel-with-header copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B47CB644-0D48-46BE-8CB1-BCA2851F1713/837FC1AF-7FC9-40F8-8F2D-044FBCE99C02_stringValue",
+      "value": "Go to Monitoring"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B47CB644-0D48-46BE-8CB1-BCA2851F1713/C1CD8778-EBD9-4DC0-A804-367B597CBDA9_stringValue",
+      "value": "Monitoring"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F4D22ABA-C46D-4964-B86F-4A3C0D3A35D9/E0A2300A-6811-4638-817C-EF3A563BFA76/5512B44A-2199-4328-9BEC-B5AEC7185EF7_stringValue",
+      "value": "Create New Monitor"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "03A6B2EB-7F35-46EF-A885-482ADB6D0114",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "154EF48E-9093-4052-BF6C-0E2021A7DAFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1BCE65A-01C8-46CB-9A1F-5825248B4DD7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44B4A2C1-58D8-4C3C-8345-E73B21E3ED22",
+    "height": 366,
+    "width": 471,
+    "x": 391,
+    "y": 374
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D9DD09E5-3524-4D27-BD38-EBB07859C52D"
+    },
+    {
+      "class": "group",
+      "id": "42CBA6F2-10FE-4125-9A6A-203379350472"
+    }
+  ],
+  "name": "cards-composition",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EEF7ADC-2E81-4B64-9A6C-A427D8927058",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

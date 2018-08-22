@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "8E2A9E58-BDD7-4005-99E4-6E69C34933C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8EB22C6A-EA6D-4DBA-A3B5-C61875936F47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A47BB201-006C-4231-A112-0DDFC3CF0F55",
+    "height": 32,
+    "width": 32,
+    "x": 114,
+    "y": 114
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Chip / Create",
+  "nameIsFixed": false,
+  "originalObjectID": "A50C3F0C-7E42-4CB3-A309-D537F8103B1C",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0CFDCC02-401A-4771-96A5-D2C7C60F09ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "119136B6-8638-4A6E-9318-62491E48C0D2",
+  "verticalSpacing": 0
+}

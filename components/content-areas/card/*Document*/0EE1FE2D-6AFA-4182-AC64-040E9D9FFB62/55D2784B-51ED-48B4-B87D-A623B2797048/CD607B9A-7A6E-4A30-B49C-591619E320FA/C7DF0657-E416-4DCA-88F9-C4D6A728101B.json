@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C7DF0657-E416-4DCA-88F9-C4D6A728101B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12E9F011-8CEC-4DDD-8D49-84DC1DB24494",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5AA9057-905F-4E93-B039-C6451F8F62BF",
+    "height": 47,
+    "width": 233,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "labels/image-label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "516DF0AC-B5B7-4224-9369-AFCCB3B35E85",
+      "overrideName": "CF7C5F20-D27D-4555-98A3-210355CA92A2_stringValue",
+      "value": "SEGMENTED CARD WITH IMAGE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6EC6826E-94AD-4E9E-A74E-D5C759972956",
+      "overrideName": "BE49D38C-14BF-45FF-BD0E-66DB36ABED37_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A78BB794-8D84-4A55-A8A6-340A40A7E031",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD342E2E-27F7-4B3F-B489-A4D553BD2DCA",
+  "verticalSpacing": 0
+}

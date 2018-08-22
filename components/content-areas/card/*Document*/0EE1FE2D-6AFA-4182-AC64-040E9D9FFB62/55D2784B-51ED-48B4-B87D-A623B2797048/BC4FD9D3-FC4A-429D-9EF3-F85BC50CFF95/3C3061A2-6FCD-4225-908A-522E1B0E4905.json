@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "3C3061A2-6FCD-4225-908A-522E1B0E4905",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3174A19B-318F-4EF3-999D-46FFE4AABF6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCDBE4A7-D7E4-4B37-B26F-56BB4136DE57",
+    "height": 47,
+    "width": 313,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "labels/image-label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "516DF0AC-B5B7-4224-9369-AFCCB3B35E85",
+      "overrideName": "CF7C5F20-D27D-4555-98A3-210355CA92A2_stringValue",
+      "value": "SEGMENTED CARD WITH SCROLLABLE DATA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD8C7411-B81D-4673-9F37-DA58771BBD81",
+      "overrideName": "BE49D38C-14BF-45FF-BD0E-66DB36ABED37_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDD5FE7C-7DD6-4183-B280-5E927DD6D4A7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD342E2E-27F7-4B3F-B489-A4D553BD2DCA",
+  "verticalSpacing": 0
+}

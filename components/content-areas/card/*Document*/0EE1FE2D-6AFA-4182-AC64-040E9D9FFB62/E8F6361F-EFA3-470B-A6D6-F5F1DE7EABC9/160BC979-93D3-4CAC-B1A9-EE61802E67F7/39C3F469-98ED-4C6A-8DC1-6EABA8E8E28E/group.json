@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "39C3F469-98ED-4C6A-8DC1-6EABA8E8E28E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F70C3E7-EDC3-4CB4-81BA-BEDAB4C60C79",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BB56E31-6FCB-42F2-9473-4972C0413478",
+    "height": 74,
+    "width": 377,
+    "x": 0,
+    "y": 292
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F92EE2B1-0B97-4865-8CF4-3F7ED7E12433"
+    }
+  ],
+  "name": "Card / Footer 20px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BA8A10B-9790-4A74-A998-D8690A543EAA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
