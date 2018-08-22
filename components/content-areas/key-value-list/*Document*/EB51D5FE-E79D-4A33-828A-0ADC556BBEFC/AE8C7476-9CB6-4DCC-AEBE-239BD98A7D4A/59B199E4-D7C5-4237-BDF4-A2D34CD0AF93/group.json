@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "59B199E4-D7C5-4237-BDF4-A2D34CD0AF93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 390,
+    "width": 614,
+    "x": 205,
+    "y": 33
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2A0B3DDC-6FE7-4F54-B316-525AC6A8BAE9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A58E869-7B96-461F-8C71-7CAF3969FBA3"
+    },
+    {
+      "class": "group",
+      "id": "8A8B570B-D326-413F-A61B-C54ED16766DB"
+    },
+    {
+      "class": "group",
+      "id": "A2983BCB-3D35-4156-AAC9-5D3A2EF9E97A"
+    },
+    {
+      "class": "group",
+      "id": "CF3D8858-E8C0-4729-9D51-E32A941F535D"
+    },
+    {
+      "class": "group",
+      "id": "60C661D4-E589-4AD3-A341-2AB701F41E9C"
+    },
+    {
+      "class": "group",
+      "id": "27A5FB4F-0D6D-4CBE-BEE4-820C00ECDB37"
+    }
+  ],
+  "name": "Hero image",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

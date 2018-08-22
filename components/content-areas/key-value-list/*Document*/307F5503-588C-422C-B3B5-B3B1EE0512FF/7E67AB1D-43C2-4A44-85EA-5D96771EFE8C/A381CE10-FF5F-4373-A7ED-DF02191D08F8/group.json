@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "A381CE10-FF5F-4373-A7ED-DF02191D08F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 139,
+    "width": 240,
+    "x": 170,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "334B2ECE-DB77-41FB-B44F-DD528CCC8EA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0FC0D3B-868A-40E9-A931-3A02988CED85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCBAF1E0-4434-4849-B735-C61FB5849A64"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA6FCC09-AB03-4AE0-9151-D39DC2102592"
+    }
+  ],
+  "name": "REdlines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
