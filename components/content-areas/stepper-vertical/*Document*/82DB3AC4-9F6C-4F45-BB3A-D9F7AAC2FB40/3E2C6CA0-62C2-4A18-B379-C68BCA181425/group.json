@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3E2C6CA0-62C2-4A18-B379-C68BCA181425",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7C40F3D-46FC-4C18-A1AB-C76A88FE61B6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0413C955-471F-4629-ABC4-62ECEFF1AE71",
+    "height": 601,
+    "width": 590,
+    "x": 391,
+    "y": 4291
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3ADBFE37-3D86-4D5C-BDAC-92377D085B65"
+    },
+    {
+      "class": "group",
+      "id": "F9DACF35-486E-4C8E-83A8-119B4B62F0E5"
+    }
+  ],
+  "name": "stepper-vertical-style-clickable-area",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "953ED945-975C-4273-9066-5CB712FDDDE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

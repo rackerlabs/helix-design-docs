@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3ADBFE37-3D86-4D5C-BDAC-92377D085B65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48157C13-8F52-48FD-B9E4-419676906F52",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F88FE1E-8378-44FE-A65A-BDAFE8155E04",
+    "height": 601,
+    "width": 489,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B1CDC023-334D-494D-8B2A-BBD2C5A3E661"
+    },
+    {
+      "class": "group",
+      "id": "8B4221BC-6A90-4206-AE4F-7C7C2F319D7D"
+    },
+    {
+      "class": "group",
+      "id": "B3DFAAE0-D31F-4FD0-A116-E2D828375965"
+    },
+    {
+      "class": "group",
+      "id": "9D5FDD4B-4DD5-41FD-853A-20388CDEB4DE"
+    },
+    {
+      "class": "group",
+      "id": "BD4BA026-4F0A-494E-B8A2-E1B5112DD394"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E378F89-BD2D-43A6-ACEB-6141BAFCE04C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D88C57C-00C6-4B04-BC0F-2DD5CE4D3C6A"
+    },
+    {
+      "class": "group",
+      "id": "61F92EE0-9EBF-489E-A8E0-D8F4F3D71564"
+    },
+    {
+      "class": "group",
+      "id": "2DDF164F-37AE-441F-8CF6-2C64FE502ED2"
+    },
+    {
+      "class": "text",
+      "id": "91D52AC5-45AC-4C75-9271-506A96BFE4E2"
+    }
+  ],
+  "name": "Group 11",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C46C2A4-8376-4FED-9A88-6AAA08D2D229",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

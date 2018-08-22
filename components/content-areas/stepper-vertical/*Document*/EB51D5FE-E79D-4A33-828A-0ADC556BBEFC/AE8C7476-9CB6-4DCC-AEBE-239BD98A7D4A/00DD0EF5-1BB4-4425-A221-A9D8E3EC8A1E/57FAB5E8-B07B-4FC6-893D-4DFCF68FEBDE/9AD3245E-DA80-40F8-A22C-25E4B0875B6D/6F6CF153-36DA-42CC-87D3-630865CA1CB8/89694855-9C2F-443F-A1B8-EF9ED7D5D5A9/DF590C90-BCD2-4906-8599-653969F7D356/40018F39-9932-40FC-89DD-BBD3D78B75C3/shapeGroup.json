@@ -1,0 +1,72 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "40018F39-9932-40FC-89DD-BBD3D78B75C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0.7996094814814813,
+    "width": 1.146664643041794,
+    "x": 0.1466807205517486,
+    "y": 0.1704714666666662
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E4E6296D-87F7-4737-945F-E98F15C7D1A4"
+    },
+    {
+      "class": "shapePath",
+      "id": "36F328C1-F2C1-458C-8F03-E86006BA8B3C"
+    },
+    {
+      "class": "shapePath",
+      "id": "4654E80F-5311-4272-A0B1-9F5016B4DEA8"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4A62256-353C-4FAB-9E3E-E6F9D071680F"
+    }
+  ],
+  "name": "Clip 40",
+  "nameIsFixed": false,
+  "originalObjectID": "029CC9A3-9799-40BF-88CA-CE99FC55360B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.4,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "A66B71E6-2ED9-451A-B3F3-07912CDEA37E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15BD8D51-3B15-458F-8BFB-872000078E9C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF723E95-C936-453E-991D-08A2A621121A",
+    "height": 614,
+    "width": 489,
+    "x": 407,
+    "y": 5929
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9B3A3062-D211-4C1E-9384-6C09EDE9FEBD"
+    },
+    {
+      "class": "group",
+      "id": "3DAF6784-B629-4946-9CCB-92E5751056F7"
+    },
+    {
+      "class": "group",
+      "id": "AC1D68A2-DCC9-4545-BEBB-B56D48027324"
+    },
+    {
+      "class": "text",
+      "id": "66BF5472-98CA-4056-97CF-BF8713BB37D0"
+    },
+    {
+      "class": "group",
+      "id": "632FA84D-813E-4178-B943-9AADE2BD460E"
+    },
+    {
+      "class": "text",
+      "id": "CDB291F5-43AF-497D-B669-019638CCB049"
+    },
+    {
+      "class": "group",
+      "id": "2AE35E78-2C9D-4874-A990-D30EBABE2E16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "110C6138-29DC-43C1-9E18-71F5A6FE355A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9DA3D71-A09E-47DC-BD58-0642DB9C82B2"
+    },
+    {
+      "class": "group",
+      "id": "6E1C8763-62D7-45EA-9880-CFAAB67A5249"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26AD8136-F126-4DC6-AFEF-276FC74781B0"
+    }
+  ],
+  "name": "stepper-vertical-states-error",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28E15F04-8629-4967-9CF4-6BA0A9DF4897",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

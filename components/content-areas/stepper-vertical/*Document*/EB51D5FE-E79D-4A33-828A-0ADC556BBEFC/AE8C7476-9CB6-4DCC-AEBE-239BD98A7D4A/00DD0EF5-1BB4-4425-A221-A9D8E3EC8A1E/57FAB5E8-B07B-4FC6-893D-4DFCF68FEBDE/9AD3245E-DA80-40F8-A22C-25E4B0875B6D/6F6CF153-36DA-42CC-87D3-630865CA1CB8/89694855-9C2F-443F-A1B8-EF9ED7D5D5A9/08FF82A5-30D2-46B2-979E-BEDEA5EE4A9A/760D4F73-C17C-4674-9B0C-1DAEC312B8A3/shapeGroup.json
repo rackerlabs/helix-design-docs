@@ -1,0 +1,64 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "760D4F73-C17C-4674-9B0C-1DAEC312B8A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3.232004740740741,
+    "width": 4.206963180888768,
+    "x": 0.08459088979592644,
+    "y": 0.1357058370370376
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "31D98C3E-152F-4A97-ABCC-46E5EFCA97B4"
+    },
+    {
+      "class": "shapePath",
+      "id": "DACAE596-A60E-4355-B866-F453421AB5A3"
+    }
+  ],
+  "name": "Clip 13",
+  "nameIsFixed": false,
+  "originalObjectID": "AF79AAD1-6496-4E63-A5D6-8AA3DCFB7B12",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.4,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

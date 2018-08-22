@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "9B24847B-F695-4D12-A6F2-30FC6D4BE070",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "691A2819-97FF-4CEF-B525-1318BF95AF56",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA26B07D-0F2C-4547-994E-42EEB87D28C4",
+    "height": 601,
+    "width": 510,
+    "x": 391,
+    "y": 5092
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1772DCAA-8E98-436B-97B5-5A744B28929D"
+    },
+    {
+      "class": "group",
+      "id": "C0D4206A-2F3A-4870-ABAF-E9DFCFA658CF"
+    }
+  ],
+  "name": "stepper-vertical-state-loading",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD0BAD73-1ADC-411D-BD5E-3AF39DC2E479",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
