@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "F3A936E8-F66F-4756-A190-543A31D2C2E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BBF9E78-731C-4EEC-8421-D03BA5100D42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD54979A-7618-4FAF-8BA8-86E92728FAEA",
+    "height": 101,
+    "width": 305,
+    "x": 32,
+    "y": 355
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FBB025C9-CC89-4B45-BDC1-0C81CC19818E"
+    },
+    {
+      "class": "text",
+      "id": "4383C871-99F2-44B9-A67A-88A19C4E51AC"
+    }
+  ],
+  "name": "In Tab Content Area text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CB05490-4B0B-4397-BDE5-3A80ED369DEB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

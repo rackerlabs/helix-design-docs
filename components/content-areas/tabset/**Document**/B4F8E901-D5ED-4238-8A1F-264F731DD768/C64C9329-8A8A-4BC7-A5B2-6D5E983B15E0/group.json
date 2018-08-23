@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "C64C9329-8A8A-4BC7-A5B2-6D5E983B15E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CA6C267-A119-4AB0-921A-29866ECC8323",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0C196EB5-440C-46AE-BCCE-65F430EC93F6",
+    "height": 101,
+    "width": 305,
+    "x": 32,
+    "y": 2315
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6578380F-0FC4-4966-850E-3D7A8523D007"
+    },
+    {
+      "class": "text",
+      "id": "22F9A8C1-909F-43A5-8028-0D1B93FB8CE1"
+    }
+  ],
+  "name": "Pressed State text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8AFF191-7A56-4F76-A38F-6FD087CD1FDF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "033B46A9-B6C6-40CF-BF6F-7E9602A82368",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F0ADC92-8777-4255-8AB4-4871F6E87689",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26D8AAAE-77E3-4B54-8B4B-47BE758375D0",
+    "height": 101,
+    "width": 306,
+    "x": 31,
+    "y": 1828
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4FA172CC-AE49-4205-886D-DFEA65F7B3E0"
+    },
+    {
+      "class": "text",
+      "id": "E00BFDE8-C922-4C03-AFD7-5196444F6640"
+    }
+  ],
+  "name": "Hover State text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0956CADC-D2AE-4540-962D-61BD0987B57B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

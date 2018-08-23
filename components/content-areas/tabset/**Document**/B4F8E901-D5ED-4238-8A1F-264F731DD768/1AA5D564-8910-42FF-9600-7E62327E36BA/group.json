@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1AA5D564-8910-42FF-9600-7E62327E36BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A70865F6-5AAB-4F11-80DE-90214A1FA80D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47B8D734-00AC-45B3-9A9E-C86BF6DD5E58",
+    "height": 216,
+    "width": 305,
+    "x": 33,
+    "y": 1319
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3F6EA3A1-9AA3-4D14-A265-76FFEEA0A281"
+    },
+    {
+      "class": "text",
+      "id": "8CA59E25-02E1-43F7-AF30-2310DF35A120"
+    }
+  ],
+  "name": "Tab Menu text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69622EAD-C29C-4A6F-93A9-994331BEB23D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
