@@ -1,0 +1,61 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "BD94526C-FCCA-44B3-8ED1-52672B808D9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BDA0FF5-44D7-4EA3-8C09-B21093EEF034",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76A39F11-40D5-4B56-923C-91E550613862",
+    "height": 166,
+    "width": 228,
+    "x": 70,
+    "y": 2856
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/2790eab260af02df58d50210496ee1debf555d8d.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "loading-indicators-layout-dashboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60C3084C-C069-4AA2-BC35-4276D9BE6AB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
