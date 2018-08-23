@@ -20,7 +20,6 @@
               "size": 14
             }
           },
-          "kerning": 0.3828125,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -29,19 +28,19 @@
             "minimumLineHeight": 23
           }
         },
-        "length": 153,
+        "length": 140,
         "location": 0
       }
     ],
-    "string": "We recommend centering the loading indicators within the component. The following are examples of loading indicators inside various components of the UI:"
+    "string": "In certain instances, such as key-value pairs, or other list style patterns – a text label alone can be used to communicate loading status. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "EB26764B-48C8-46E6-A1AF-456D5CD1D093",
+  "do_objectID": "79B20CDA-5000-4E05-AA81-C1619784D5B5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DE7EE9C2-D5E6-41EC-865B-DE359A359E59",
+    "do_objectID": "7A9BF663-4C86-45A7-915A-2B8D6440CB91",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "260D5A8D-104E-4748-B459-29040F88062B",
-    "height": 46,
-    "width": 960,
-    "x": 34,
-    "y": 2769
+    "do_objectID": "AEA074A8-52B2-42C6-9AEF-7078E2704BB3",
+    "height": 69,
+    "width": 305,
+    "x": 31,
+    "y": 1714
   },
-  "glyphBounds": "{{0, 5}, {883, 37}}",
+  "glyphBounds": "{{0, 5}, {291, 60}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,21 +65,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "when-to-use",
+  "name": "description",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
-  "resizingType": 0,
+  "originalObjectID": "BBBD3081-7C77-4CB5-B7E3-B7C3E4EC0481",
+  "resizingConstraint": 18,
+  "resizingType": 2,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6513AC9D-F708-4379-83B9-AA608227273B",
+    "do_objectID": "63F453E2-B7C2-4760-AC06-C1A2141E910B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7986063D-9CB6-40DB-8475-38B1852F69D9",
+      "do_objectID": "D2E02C52-FB98-47A9-ACA4-FB4600588208",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -96,7 +96,6 @@
             "size": 14
           }
         },
-        "kerning": 0.3828125,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

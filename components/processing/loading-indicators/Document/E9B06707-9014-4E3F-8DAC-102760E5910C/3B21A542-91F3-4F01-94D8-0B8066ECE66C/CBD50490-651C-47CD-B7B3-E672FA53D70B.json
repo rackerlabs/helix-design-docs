@@ -9,39 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.4784313725,
+            "green": 0.2509803922,
+            "red": 0.9254901961
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 14
+              "size": 12
             }
           },
-          "kerning": 0.3828125,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 23,
-            "minimumLineHeight": 23
+            "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 153,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "We recommend centering the loading indicators within the component. The following are examples of loading indicators inside various components of the UI:"
+    "string": "Lg. Icon:  16 px x 16 px"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "EB26764B-48C8-46E6-A1AF-456D5CD1D093",
+  "do_objectID": "CBD50490-651C-47CD-B7B3-E672FA53D70B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DE7EE9C2-D5E6-41EC-865B-DE359A359E59",
+    "do_objectID": "E1452464-4D70-4AC4-B903-2BD4607C3D35",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "260D5A8D-104E-4748-B459-29040F88062B",
-    "height": 46,
-    "width": 960,
-    "x": 34,
-    "y": 2769
+    "do_objectID": "E70C8CF4-B645-4574-95DC-FAE0A2FD44E0",
+    "height": 28,
+    "width": 70,
+    "x": 271,
+    "y": 45
   },
-  "glyphBounds": "{{0, 5}, {883, 37}}",
+  "glyphBounds": "{{0, 2}, {70, 26}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,48 +63,46 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "when-to-use",
+  "name": "redline-label",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "originalObjectID": "AAC39B43-1110-4495-A365-AEE018517BE5",
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6513AC9D-F708-4379-83B9-AA608227273B",
+    "do_objectID": "6DFCC384-2756-48D6-BF1A-F7E0A9BFD6D4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7986063D-9CB6-40DB-8475-38B1852F69D9",
+      "do_objectID": "6FC1D938-CD7A-49C6-A7A2-B40E6BE7EB72",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.4784313725,
+          "green": 0.2509803922,
+          "red": 0.9254901961
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 14
+            "size": 12
           }
         },
-        "kerning": 0.3828125,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 23,
-          "minimumLineHeight": 23
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

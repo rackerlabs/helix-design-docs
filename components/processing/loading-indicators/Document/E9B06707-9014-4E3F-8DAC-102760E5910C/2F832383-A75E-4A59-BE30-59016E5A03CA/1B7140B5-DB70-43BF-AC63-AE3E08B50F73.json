@@ -20,28 +20,25 @@
               "size": 14
             }
           },
-          "kerning": 0.3828125,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 23,
-            "minimumLineHeight": 23
+            "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 153,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "We recommend centering the loading indicators within the component. The following are examples of loading indicators inside various components of the UI:"
+    "string": "Loading…"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "EB26764B-48C8-46E6-A1AF-456D5CD1D093",
+  "do_objectID": "1B7140B5-DB70-43BF-AC63-AE3E08B50F73",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DE7EE9C2-D5E6-41EC-865B-DE359A359E59",
+    "do_objectID": "CB26B14D-A875-4206-A638-A81C119A7C5C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "260D5A8D-104E-4748-B459-29040F88062B",
-    "height": 46,
-    "width": 960,
-    "x": 34,
-    "y": 2769
+    "do_objectID": "2DFC0024-B7F0-4E7F-801A-B9FC5646B9F3",
+    "height": 16,
+    "width": 60,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 5}, {883, 37}}",
+  "glyphBounds": "{{1, 2}, {58, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,21 +63,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "when-to-use",
-  "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "name": "Loading…",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6513AC9D-F708-4379-83B9-AA608227273B",
+    "do_objectID": "850B1448-10FE-4CCD-824B-2C4AA0E2AB55",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7986063D-9CB6-40DB-8475-38B1852F69D9",
+      "do_objectID": "7AF1577D-5E50-4A14-A462-A8B489972E45",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -96,18 +93,15 @@
             "size": 14
           }
         },
-        "kerning": 0.3828125,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 23,
-          "minimumLineHeight": 23
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

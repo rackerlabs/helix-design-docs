@@ -1,0 +1,61 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "6DCFA236-79C3-46D2-B1C7-2C34A72AB9F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2CEFC43-8EA8-4193-8103-67131644F6A6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66E35DEC-907E-41CA-AFFF-C38C62FB3B70",
+    "height": 166,
+    "width": 229,
+    "x": 725,
+    "y": 2856
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ce2bce7da966adeb44b83b10f7d018e624db3c58.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "loading-indicators-layout-cards",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77689639-D315-4C9F-8692-D624281F778F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
