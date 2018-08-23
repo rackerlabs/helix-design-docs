@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1EB2DFCC-83AF-4CBE-BA1C-9DB92CD9C29E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 316,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "help/ background",
+  "nameIsFixed": false,
+  "originalObjectID": "A697B103-D6A6-4724-A898-7EF0471F512B",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FC0D42B0-36EF-4794-BE15-884EB6AE040D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FC0D42B0-36EF-4794-BE15-884EB6AE040D/DC175DF7-D674-45F1-99E2-B40226C1B1B3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FC0D42B0-36EF-4794-BE15-884EB6AE040D/3A9AE7DA-AAC3-4330-B253-7C0F184D31D2_symbolID",
+      "value": "13213C82-8A65-4E0B-9796-C9D5307F5753"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "941FBABD-A37A-46A1-883D-AA3565E972CA_stringValue",
+      "value": "Specs & States"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E462B970-04E7-4105-B2B2-D485B93E6FFF_stringValue",
+      "value": "Use the sections on this artboard to document construction specs for your design.  Fonts, colors, padding, margins, line-height, etc.  Consider brushing up on CSS to help our developer friends out.\n\nBy thoughtfully designing for these states, you can create a polished experience for users no matter which situation they find themselves in. Many of these states are often inferred, forgotten, or simply ignored by designers.\n\nIMPORTANT:  These states won't apply to all design patterns, and many design patterns will have states not included here.  Just delete states you don't need, and add sections to this artboard for any states you do need."
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2664E371-0EA6-4C4E-A0DA-49BDB9FFCAC4",
+  "verticalSpacing": 0
+}

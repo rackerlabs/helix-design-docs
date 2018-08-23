@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F95B00D5-FB77-40DE-BFA5-E2E5B45D8358",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA05BDDE-872C-4171-AE03-5A260B238E51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2540D7E5-6669-4D3E-9F9D-B33E23572BBB",
+    "height": 47,
+    "width": 120,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "labels/image-label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9924942-7C6D-4A85-BF6B-16D0529B40F8",
+      "overrideName": "CF7C5F20-D27D-4555-98A3-210355CA92A2_stringValue",
+      "value": "SPLIT BUTTON"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87574847-2525-4D2B-B6E7-0B103585A8C5",
+      "overrideName": "BE49D38C-14BF-45FF-BD0E-66DB36ABED37_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9956112-2B17-49EA-AFEF-398985D3FDAC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D936D9FB-743E-4B75-AE83-064B2138A6F4",
+  "verticalSpacing": 0
+}
