@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "86F133D5-9B6E-4F9A-B5E6-6751042B7A61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA429020-E7E1-4B3F-A0D6-74CE2ADB1C63",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09932ECB-592E-4BB1-AC3E-C0626A8C4F31",
+    "height": 285,
+    "width": 565,
+    "x": 409,
+    "y": 1869
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3F3B902F-8B86-4FA1-8742-F06C107BFCA0"
+    },
+    {
+      "class": "group",
+      "id": "206F14A5-1B16-47FD-AFB8-A3E18C2848BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E4C8001-43F7-4145-9B92-8F563C2FCFA9"
+    }
+  ],
+  "name": "tabset-hover-state",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E539E47E-08EC-4792-86E5-05DD503B0757",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

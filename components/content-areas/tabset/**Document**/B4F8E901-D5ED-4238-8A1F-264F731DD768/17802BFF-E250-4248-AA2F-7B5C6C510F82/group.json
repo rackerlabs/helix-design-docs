@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "17802BFF-E250-4248-AA2F-7B5C6C510F82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FDBDF70-51C8-478A-B1FC-B5EA0F7B18A8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98452F83-1FB0-4F48-BC1C-14F652B822F3",
+    "height": 294,
+    "width": 551,
+    "x": 410,
+    "y": 1356
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6D6F324D-EB06-4AE2-A117-3AB6D4CB7A36"
+    },
+    {
+      "class": "group",
+      "id": "2C452FFB-AA0C-449A-BB73-BD722213F3D3"
+    }
+  ],
+  "name": "tabset-style",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D75DA02-A251-4237-8314-FB60BBCDBEAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
